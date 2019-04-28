@@ -1,3 +1,4 @@
-# Local data repository
+# Data warehouse
 
-Local data released by UMGC or stored on MSI primary storage system
+* local data released by UMGC
+* external data downloaded from SRA / JGI and stored on MSI primary storage

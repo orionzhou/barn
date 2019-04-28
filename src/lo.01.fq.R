@@ -1,7 +1,7 @@
 source("functions.R")
 t_cfg %>% select(-yid2,-stranded,-interleaved) %>% print(n=40)
 
-yid = 'sp052'
+yid = 'bmr'
 opt = t_cfg %>% filter(yid==!!yid) %>% pull(source)
 interleaved = t_cfg %>% filter(yid==!!yid) %>% pull(interleaved)
 fi = file.path(dird, '03.raw.xlsx')

@@ -1,6 +1,6 @@
 require(devtools)
 load_all('~/git/rmaize')
-dird = '~/projects/local/data'
+dird = '~/projects/barn/data'
 f_cfg = file.path(dird, '01.cfg.xlsx')
 t_cfg = read_xlsx(f_cfg, sheet=1, col_names=T) %>%
     mutate(interleaved = as.logical(interleaved)) %>%
@@ -29,20 +29,23 @@ complete_sample_list <- function(ti) {
 locate_fastq <- function(diri, file_prefix, opt='umgc', interleaved=F) {
     #{{{
     if(opt == 'umgc') {
-        r0 = sprintf("%s/%s_R1_001.fastq", diri, file_prefix)
-        r1 = sprintf("%s/%s_R1_001.fastq", diri, file_prefix)
-        r2 = sprintf("%s/%s_R2_001.fastq", diri, file_prefix)
+        r0 = sprintf("%s_R1_001.fastq", file_prefix)
+        r1 = sprintf("%s_R1_001.fastq", file_prefix)
+        r2 = sprintf("%s_R2_001.fastq", file_prefix)
     } else if (opt == 'jgi') {
-        r0 = sprintf("%s/%s.fastq", diri, file_prefix)
-        r1 = sprintf("%s/%s_1.fastq", diri, file_prefix)
-        r2 = sprintf("%s/%s_2.fastq", diri, file_prefix)
+        r0 = sprintf("%s.fastq", file_prefix)
+        r1 = sprintf("%s_1.fastq", file_prefix)
+        r2 = sprintf("%s_2.fastq", file_prefix)
     } else if (opt == '3rnaseq') {
-        r0 = sprintf("%s/%s.fq", diri, file_prefix)
-        r1 = sprintf("%s/%s_1.fq", diri, file_prefix)
-        r2 = sprintf("%s/%s_2.fq", diri, file_prefix)
+        r0 = sprintf("%s.fq", file_prefix)
+        r1 = sprintf("%s_1.fq", file_prefix)
+        r2 = sprintf("%s_2.fq", file_prefix)
     } else {
         stop(sprintf("unknown opt: %s\n", opt))
     }
+    r0 = file.path(diri, r0)
+    r1 = file.path(diri, r1)
+    r2 = file.path(diri, r2)
     if (!file.exists(r0) & !file.exists(r1) & !file.exists(r2)) {
         r0 = sprintf("%s.gz", r0)
         r1 = sprintf("%s.gz", r1)

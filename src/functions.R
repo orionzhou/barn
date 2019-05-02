@@ -1,5 +1,7 @@
 require(devtools)
 load_all('~/git/rmaize')
+require(rentrez)
+require(xml2)
 dird = '~/projects/barn/data'
 f_cfg = file.path(dird, '01.cfg.xlsx')
 t_cfg = read_xlsx(f_cfg, sheet=1, col_names=T) %>%
@@ -21,27 +23,32 @@ complete_sample_list <- function(ti) {
     if(!'Treatment' %in% colnames(ti)) ti = ti %>% mutate(Treatment='')
     if(!'Replicate' %in% colnames(ti)) ti = ti %>% mutate(Replicate='')
     if( is.na(ti$SampleID[1]) ) ti$SampleID = generate_sample_id(nrow(ti))
-    ti %>% fill(Tissue, Genotype, Treatment, directory) %>%
-        select(SampleID, Tissue, Genotype, Treatment, Replicate, everything())
+    if('directory' %in% colnames(ti)) ti = ti %>% fill(directory)
+    ti %>% fill(Tissue, Genotype, Treatment) %>%
+        select(SampleID, Tissue, Genotype, Treatment, Replicate, everything()) %>%
+        arrange(SampleID, Tissue, Genotype, Treatment) %>%
+        group_by(Tissue,Genotype,Treatment) %>%
+        mutate(Replicate = 1:n()) %>%
+        ungroup()
     #}}}
 }
 
-locate_fastq <- function(diri, file_prefix, opt='umgc', interleaved=F) {
+locate_fastq <- function(diri, file_prefix, fmt='umgc', interleaved=F) {
     #{{{
-    if(opt == 'umgc') {
+    if(fmt == 'umgc') {
         r0 = sprintf("%s_R1_001.fastq", file_prefix)
         r1 = sprintf("%s_R1_001.fastq", file_prefix)
         r2 = sprintf("%s_R2_001.fastq", file_prefix)
-    } else if (opt == 'jgi') {
+    } else if (fmt == 'jgi') {
         r0 = sprintf("%s.fastq", file_prefix)
         r1 = sprintf("%s_1.fastq", file_prefix)
         r2 = sprintf("%s_2.fastq", file_prefix)
-    } else if (opt == '3rnaseq') {
+    } else if (fmt == 'simple') {
         r0 = sprintf("%s.fq", file_prefix)
         r1 = sprintf("%s_1.fq", file_prefix)
         r2 = sprintf("%s_2.fq", file_prefix)
     } else {
-        stop(sprintf("unknown opt: %s\n", opt))
+        stop(sprintf("unknown fmt: %s\n", opt))
     }
     r0 = file.path(diri, r0)
     r1 = file.path(diri, r1)
@@ -66,20 +73,6 @@ locate_fastq <- function(diri, file_prefix, opt='umgc', interleaved=F) {
     #}}}
 }
 
-read_msi_fastqc <- function(rdir) {
-    #{{{
-    fi = file.path(rdir, "Analysis/illumina-basicQC/Resources/metrics.txt")
-    if(file.exists(fi)) {
-        read_tsv(fi) %>%
-        select(sampleName = `general-samplename`,
-               spots = `fastqc-totalsequences`,
-               avgLength = `fastqc-sequencelength`) %>%
-        filter(sampleName != 'Mean')
-    } else{
-        NA
-    }
-    #}}}
-}
 
 
 

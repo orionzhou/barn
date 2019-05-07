@@ -1,50 +1,50 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	paired	spots	avgLength
-s01	seedling_leaf3	LH82		1	TRUE	24169407	202
-s02	seedling_leaf3	LH82		2	TRUE	24110501	202
-s03	seedling_leaf3	LH82		3	TRUE	24004265	202
-s04	seedling_leaf3	LH82		4	TRUE	24018468	202
-s05	seedling_leaf3	LH82		5	TRUE	24254412	202
-s06	seedling_leaf3	LH82		6	TRUE	24049827	202
-s07	seedling_leaf3	Mo17		1	TRUE	26522668	202
-s08	seedling_leaf3	Mo17		2	TRUE	26474599	202
-s09	seedling_leaf3	Mo17		3	TRUE	26518005	202
-s10	seedling_leaf3	Mo17		4	TRUE	26290233	202
-s11	seedling_leaf3	Mo17		5	TRUE	26555685	202
-s12	seedling_leaf3	Mo17		6	TRUE	26342687	202
-s13	seedling_leaf3	P39		1	TRUE	21385981	202
-s14	seedling_leaf3	P39		2	TRUE	20606813	202
-s15	seedling_leaf3	P39		3	TRUE	19435780	202
-s16	seedling_leaf3	P39		4	TRUE	21736147	202
-s17	seedling_leaf3	P39		5	TRUE	21309263	202
-s18	seedling_leaf3	P39		6	TRUE	20452714	202
-s19	seedling_leaf3	PH207		1	TRUE	21738278	202
-s20	seedling_leaf3	PH207		2	TRUE	21673974	202
-s21	seedling_leaf3	PH207		3	TRUE	21646782	202
-s22	seedling_leaf3	PH207		4	TRUE	21565699	202
-s23	seedling_leaf3	PH207		5	TRUE	21764937	202
-s24	seedling_leaf3	PH207		6	TRUE	21548969	202
-s25	seedling_leaf3	PHZ51		1	TRUE	22430830	202
-s26	seedling_leaf3	PHZ51		2	TRUE	22338071	202
-s27	seedling_leaf3	PHZ51		3	TRUE	22304379	202
-s28	seedling_leaf3	PHZ51		4	TRUE	22208554	202
-s29	seedling_leaf3	PHZ51		5	TRUE	22421272	202
-s30	seedling_leaf3	PHZ51		6	TRUE	22241291	202
-s31	seedling_leaf3	W22		1	TRUE	25057972	202
-s32	seedling_leaf3	W22		2	TRUE	25011182	202
-s33	seedling_leaf3	W22		3	TRUE	25137190	202
-s34	seedling_leaf3	W22		4	TRUE	24767805	202
-s35	seedling_leaf3	W22		5	TRUE	25069191	202
-s36	seedling_leaf3	W22		6	TRUE	24873022	202
-s37	seedling_leaf3	LH82		7	TRUE	35204911	202
-s38	seedling_leaf3	Mo17		7	TRUE	35220424	202
-s39	seedling_leaf3	P39		7	TRUE	31362401	202
-s40	seedling_leaf3	PH207		7	TRUE	29925670	202
-s41	seedling_leaf3	PHZ51		7	TRUE	28612724	202
-s42	seedling_leaf3	W22		7	TRUE	33754044	202
-s43	seedling_leaf3	PH207		8	TRUE	32018035	202
-s44	seedling_leaf3	PH207		9	TRUE	32018424	202
-s45	seedling_leaf3	PH207		10	TRUE	31569704	202
-s46	seedling_leaf3	PH207		11	TRUE	31603099	202
-s47	seedling_leaf3	PH207		12	TRUE	31131077	202
-s48	seedling_leaf3	PH207		13	TRUE	31335594	202
-s49	seedling_leaf3	PH207		14	TRUE	32025262	202
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+s01	seedling_leaf3	LH82		1	m1	TRUE	24169407	202
+s02	seedling_leaf3	LH82		2	m1	TRUE	24110501	202
+s03	seedling_leaf3	LH82		3	m1	TRUE	24004265	202
+s04	seedling_leaf3	LH82		4	m1	TRUE	24018468	202
+s05	seedling_leaf3	LH82		5	m1	TRUE	24254412	202
+s06	seedling_leaf3	LH82		6	m1	TRUE	24049827	202
+s07	seedling_leaf3	Mo17		1	m2	TRUE	26522668	202
+s08	seedling_leaf3	Mo17		2	m2	TRUE	26474599	202
+s09	seedling_leaf3	Mo17		3	m2	TRUE	26518005	202
+s10	seedling_leaf3	Mo17		4	m2	TRUE	26290233	202
+s11	seedling_leaf3	Mo17		5	m2	TRUE	26555685	202
+s12	seedling_leaf3	Mo17		6	m2	TRUE	26342687	202
+s13	seedling_leaf3	P39		1	m3	TRUE	21385981	202
+s14	seedling_leaf3	P39		2	m3	TRUE	20606813	202
+s15	seedling_leaf3	P39		3	m3	TRUE	19435780	202
+s16	seedling_leaf3	P39		4	m3	TRUE	21736147	202
+s17	seedling_leaf3	P39		5	m3	TRUE	21309263	202
+s18	seedling_leaf3	P39		6	m3	TRUE	20452714	202
+s19	seedling_leaf3	PH207		1	m4	TRUE	21738278	202
+s20	seedling_leaf3	PH207		2	m4	TRUE	21673974	202
+s21	seedling_leaf3	PH207		3	m4	TRUE	21646782	202
+s22	seedling_leaf3	PH207		4	m4	TRUE	21565699	202
+s23	seedling_leaf3	PH207		5	m4	TRUE	21764937	202
+s24	seedling_leaf3	PH207		6	m4	TRUE	21548969	202
+s25	seedling_leaf3	PHZ51		1	m5	TRUE	22430830	202
+s26	seedling_leaf3	PHZ51		2	m5	TRUE	22338071	202
+s27	seedling_leaf3	PHZ51		3	m5	TRUE	22304379	202
+s28	seedling_leaf3	PHZ51		4	m5	TRUE	22208554	202
+s29	seedling_leaf3	PHZ51		5	m5	TRUE	22421272	202
+s30	seedling_leaf3	PHZ51		6	m5	TRUE	22241291	202
+s31	seedling_leaf3	W22		1	m6	TRUE	25057972	202
+s32	seedling_leaf3	W22		2	m6	TRUE	25011182	202
+s33	seedling_leaf3	W22		3	m6	TRUE	25137190	202
+s34	seedling_leaf3	W22		4	m6	TRUE	24767805	202
+s35	seedling_leaf3	W22		5	m6	TRUE	25069191	202
+s36	seedling_leaf3	W22		6	m6	TRUE	24873022	202
+s37	seedling_leaf3	LH82		7	m1	TRUE	35204911	202
+s38	seedling_leaf3	Mo17		7	m2	TRUE	35220424	202
+s39	seedling_leaf3	P39		7	m3	TRUE	31362401	202
+s40	seedling_leaf3	PH207		7	m4	TRUE	29925670	202
+s41	seedling_leaf3	PHZ51		7	m5	TRUE	28612724	202
+s42	seedling_leaf3	W22		7	m6	TRUE	33754044	202
+s43	seedling_leaf3	PH207		8	m4	TRUE	32018035	202
+s44	seedling_leaf3	PH207		9	m4	TRUE	32018424	202
+s45	seedling_leaf3	PH207		10	m4	TRUE	31569704	202
+s46	seedling_leaf3	PH207		11	m4	TRUE	31603099	202
+s47	seedling_leaf3	PH207		12	m4	TRUE	31131077	202
+s48	seedling_leaf3	PH207		13	m4	TRUE	31335594	202
+s49	seedling_leaf3	PH207		14	m4	TRUE	32025262	202

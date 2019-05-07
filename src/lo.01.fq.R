@@ -716,11 +716,11 @@ th %>% arrange(SampleID) %>% sra_fill_replicate(th)
 
 #{{{ SRA
 #{{{ work on single one
-yid = 'rn18e'
+yid = 'rn14f'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
-fo = sprintf("%s/08_sra_list_raw/%s.tsv", dird, yid)
-write_tsv(ti, fo)
+fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)
+write_csv(ti, fo)
 #}}}
 
 #{{{ work on many
@@ -749,7 +749,7 @@ tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
 
 
 #{{{ local data
-yid = 'rn99c'
+yid = 'rn99f'
 fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
 lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
 interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)
@@ -758,8 +758,8 @@ ti = read_xlsx(fi, sheet=lid)
 to = complete_sample_list(ti) %>%
     mutate(data = map2(directory,file_prefix, locate_fastq,
                        fmt=!!fmt, interleaved=!!interleaved)) %>%
-    unnest() %>% select(-directory,-file_prefix) %>%
-to %>% count(Genotype, Tissue, Treatment) %>% print(n=50)
+    unnest() %>% select(-directory,-file_prefix)
+to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
 #
 fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)
 write_tsv(to, fo)

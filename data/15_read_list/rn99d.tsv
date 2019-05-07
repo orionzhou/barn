@@ -1,95 +1,95 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	paired	spots	avgLength
-A01	leaf_2	B73	day9_11am_control	1	FALSE	2569273	86
-A02	leaf_2	B73	day10_4pm_control	1	FALSE	4895743	86
-A03	leaf_2	B73	day9_4pm_cold	1	FALSE	6042528	86
-A04	leaf_2	B73	day11_11am_cold	1	FALSE	6354746	86
-A05	leaf_2	B73	day12_4pm_control	1	FALSE	6291714	86
-A06	leaf_2	B73	day15_4pm_control	1	FALSE	8041159	86
-A07	leaf_3	B73	day15_4pm_control	1	FALSE	4693395	86
-A08	leaf_2	B73	day9_11am_control	2	FALSE	3858046	86
-A09	leaf_2	B73	day11_4pm_cold	1	FALSE	7884099	86
-A10	leaf_2	B73	day11_11am_control	1	FALSE	8531420	86
-A11	leaf_2	B73	day11_4pm_control	1	FALSE	4217072	86
-A12	leaf_2	B73	day9_4pm_cold	2	FALSE	2554061	86
-B01	leaf_2	B73	day9_11am_control	3	FALSE	6924938	86
-B02	leaf_2	B73	day10_4pm_control	2	FALSE	3960518	86
-B03	leaf_2	B73	day9_4pm_cold	3	FALSE	41612	86
-B04	leaf_2	B73	day11_11am_cold	2	FALSE	4078882	86
-B05	leaf_2	B73	day11_4pm_control	2	FALSE	4616867	86
-B06	leaf_2	B73	day15_4pm_control	2	FALSE	3464293	86
-B07	leaf_3	B73	day15_4pm_control	2	FALSE	5186969	86
-B08	leaf_2	Mo17	day9_11am_control	1	FALSE	4024686	86
-B09	leaf_2	B73	day11_4pm_cold	2	FALSE	4049331	86
-B10	leaf_2	Mo17	day11_11am_control	1	FALSE	4406214	86
-B11	leaf_2	Mo17	day11_4pm_control	1	FALSE	4273502	86
-B12	leaf_2	Mo17	day9_4pm_cold	1	FALSE	7194192	86
-C01	leaf_2	Mo17	day9_11am_control	2	FALSE	5706730	86
-C02	leaf_2	Mo17	day10_4pm_control	1	FALSE	1930380	86
-C03	leaf_2	Mo17	day9_4pm_cold	2	FALSE	1456110	86
-C04	leaf_2	Mo17	day11_11am_cold	1	FALSE	1471538	86
-C05	leaf_2	Mo17	day12_4pm_control	1	FALSE	2394103	86
-C06	leaf_2	Mo17	day15_4pm_control	1	FALSE	4014333	86
-C07	leaf_3	Mo17	day15_4pm_control	1	FALSE	5817331	86
-C08	leaf_2	B73	day9_12pm_control	1	FALSE	4963085	86
-C09	leaf_2	Mo17	day11_4pm_cold	1	FALSE	3380876	86
-C10	leaf_2	B73	day11_11am_cold	3	FALSE	4440669	86
-C11	leaf_2	B73	day11_4pm_cold	3	FALSE	8404865	86
-C12	leaf_2	B73	day15_4pm_control	3	FALSE	4349542	86
-D01	leaf_2	Mo17	day9_11am_control	3	FALSE	3340530	86
-D02	leaf_2	Mo17	day10_4pm_control	2	FALSE	3606988	86
-D03	leaf_2	Mo17	day9_4pm_cold	3	FALSE	375539	86
-D04	leaf_2	Mo17	day11_11am_cold	2	FALSE	3091189	86
-D05	leaf_2	Mo17	day12_4pm_control	2	FALSE	6016519	86
-D06	leaf_2	Mo17	day15_4pm_control	2	FALSE	3450487	86
-D07	leaf_3	Mo17	day15_4pm_control	2	FALSE	2948319	86
-D08	leaf_2	B73	day9_12pm_cold	1	FALSE	3889598	86
-D09	leaf_2	Mo17	day11_4pm_cold	2	FALSE	3841380	86
-D10	leaf_2	Mo17	day11_11am_cold	3	FALSE	5819246	86
-D11	leaf_2	Mo17	day11_4pm_cold	3	FALSE	7712596	86
-D12	leaf_2	Mo17	day15_4pm_control	3	FALSE	3256337	86
-E01	leaf_2	B73	day9_4pm_control	1	FALSE	3856322	86
-E02	leaf_2	B73	day10_4pm_cold	1	FALSE	4255911	86
-E03	leaf_2	B73	day10_4pm_control	3	FALSE	4307087	86
-E04	leaf_2	B73	day11_4pm_control	3	FALSE	2772689	86
-E05	leaf_2	B73	day12_4pm_cold	1	FALSE	4659906	86
-E06	leaf_2	B73	day15_4pm_cold	1	FALSE	1545614	86
-E07	leaf_3	B73	day15_4pm_cold	1	FALSE	6067208	86
-E08	leaf_2	B73	day9_2pm_control	1	FALSE	3568454	86
-E09	leaf_2	B73	day11_11am_control	2	FALSE	4857996	86
-E10	leaf_2	B73	day11_12pm_control	1	FALSE	4146377	86
-E11	leaf_2	B73	day12_4pm_control	2	FALSE	5294487	86
-E12	leaf_2	B73	day15_4pm_cold	2	FALSE	3325422	86
-F01	leaf_2	B73	day9_4pm_control	2	FALSE	3648646	86
-F02	leaf_2	B73	day10_4pm_cold	2	FALSE	5111614	86
-F03	leaf_2	Mo17	day10_4pm_control	3	FALSE	4159601	86
-F04	leaf_2	B73	day11_4pm_control	4	FALSE	5055582	86
-F05	leaf_2	B73	day12_4pm_cold	2	FALSE	6826258	86
-F06	leaf_2	B73	day15_4pm_cold	3	FALSE	5131163	86
-F07	leaf_3	B73	day15_4pm_cold	2	FALSE	3640501	86
-F08	leaf_2	B73	day9_2pm_cold	1	FALSE	4196335	86
-F09	leaf_2	B73	day11_11am_control	3	FALSE	2387084	86
-F10	leaf_2	B73	day11_12pm_cold	1	FALSE	6642905	86
-F11	leaf_2	Mo17	day12_4pm_control	3	FALSE	8208892	86
-F12	leaf_2	Mo17	day15_4pm_cold	1	FALSE	5018677	86
-G01	leaf_2	Mo17	day9_4pm_control	1	FALSE	5366242	86
-G02	leaf_2	Mo17	day10_4pm_cold	1	FALSE	1816565	86
-G03	leaf_2	B73	day10_4pm_cold	3	FALSE	4280883	86
-G04	leaf_2	Mo17	day11_4pm_control	2	FALSE	3694335	86
-G05	leaf_2	Mo17	day12_4pm_cold	1	FALSE	3616756	86
-G06	leaf_2	Mo17	day15_4pm_cold	2	FALSE	2903502	86
-G07	leaf_7	Mo17	day15_4pm_cold	1	FALSE	5671037	86
-G08	leaf_2	B73	day9_4pm_control	3	FALSE	6261564	86
-G09	leaf_2	Mo17	day11_11am_control	2	FALSE	6955521	86
-G10	leaf_2	B73	day11_2pm_control	1	FALSE	5574616	86
-G11	leaf_2	B73	day12_4pm_cold	3	FALSE	6782374	86
-H01	leaf_2	Mo17	day9_4pm_control	2	FALSE	2300737	86
-H02	leaf_2	Mo17	day10_4pm_cold	2	FALSE	5171073	86
-H03	leaf_2	Mo17	day10_4pm_cold	3	FALSE	6126041	86
-H04	leaf_2	Mo17	day11_4pm_control	3	FALSE	12630	86
-H05	leaf_2	Mo17	day12_4pm_cold	2	FALSE	4507985	86
-H06	leaf_2	Mo17	day15_4pm_cold	3	FALSE	2230076	86
-H07	leaf_3	Mo17	day15_4pm_cold	1	FALSE	4624801	86
-H08	leaf_2	Mo17	day9_4pm_control	3	FALSE	6638572	86
-H09	leaf_2	Mo17	day11_11am_control	3	FALSE	7376732	86
-H10	leaf_2	B73	day11_2pm_cold	1	FALSE	6619274	86
-H11	leaf_2	Mo17	day12_4pm_cold	3	FALSE	5581243	86
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+A01	leaf_2	B73	day9_11am_control	1	m01	FALSE	2569273	86
+A02	leaf_2	B73	day10_4pm_control	1	m02	FALSE	4895743	86
+A03	leaf_2	B73	day9_4pm_cold	1	m03	FALSE	6042528	86
+A04	leaf_2	B73	day11_11am_cold	1	m04	FALSE	6354746	86
+A05	leaf_2	B73	day12_4pm_control	1	m05	FALSE	6291714	86
+A06	leaf_2	B73	day15_4pm_control	1	m06	FALSE	8041159	86
+A07	leaf_3	B73	day15_4pm_control	1	m07	FALSE	4693395	86
+A08	leaf_2	B73	day9_11am_control	2	m01	FALSE	3858046	86
+A09	leaf_2	B73	day11_4pm_cold	1	m08	FALSE	7884099	86
+A10	leaf_2	B73	day11_11am_control	1	m09	FALSE	8531420	86
+A11	leaf_2	B73	day11_4pm_control	1	m10	FALSE	4217072	86
+A12	leaf_2	B73	day9_4pm_cold	2	m03	FALSE	2554061	86
+B01	leaf_2	B73	day9_11am_control	3	m01	FALSE	6924938	86
+B02	leaf_2	B73	day10_4pm_control	2	m02	FALSE	3960518	86
+B03	leaf_2	B73	day9_4pm_cold	3	m03	FALSE	41612	86
+B04	leaf_2	B73	day11_11am_cold	2	m04	FALSE	4078882	86
+B05	leaf_2	B73	day11_4pm_control	2	m10	FALSE	4616867	86
+B06	leaf_2	B73	day15_4pm_control	2	m06	FALSE	3464293	86
+B07	leaf_3	B73	day15_4pm_control	2	m07	FALSE	5186969	86
+B08	leaf_2	Mo17	day9_11am_control	1	m11	FALSE	4024686	86
+B09	leaf_2	B73	day11_4pm_cold	2	m08	FALSE	4049331	86
+B10	leaf_2	Mo17	day11_11am_control	1	m12	FALSE	4406214	86
+B11	leaf_2	Mo17	day11_4pm_control	1	m13	FALSE	4273502	86
+B12	leaf_2	Mo17	day9_4pm_cold	1	m14	FALSE	7194192	86
+C01	leaf_2	Mo17	day9_11am_control	2	m11	FALSE	5706730	86
+C02	leaf_2	Mo17	day10_4pm_control	1	m15	FALSE	1930380	86
+C03	leaf_2	Mo17	day9_4pm_cold	2	m14	FALSE	1456110	86
+C04	leaf_2	Mo17	day11_11am_cold	1	m16	FALSE	1471538	86
+C05	leaf_2	Mo17	day12_4pm_control	1	m17	FALSE	2394103	86
+C06	leaf_2	Mo17	day15_4pm_control	1	m18	FALSE	4014333	86
+C07	leaf_3	Mo17	day15_4pm_control	1	m19	FALSE	5817331	86
+C08	leaf_2	B73	day9_12pm_control	1	m20	FALSE	4963085	86
+C09	leaf_2	Mo17	day11_4pm_cold	1	m21	FALSE	3380876	86
+C10	leaf_2	B73	day11_11am_cold	3	m04	FALSE	4440669	86
+C11	leaf_2	B73	day11_4pm_cold	3	m08	FALSE	8404865	86
+C12	leaf_2	B73	day15_4pm_control	3	m06	FALSE	4349542	86
+D01	leaf_2	Mo17	day9_11am_control	3	m11	FALSE	3340530	86
+D02	leaf_2	Mo17	day10_4pm_control	2	m15	FALSE	3606988	86
+D03	leaf_2	Mo17	day9_4pm_cold	3	m14	FALSE	375539	86
+D04	leaf_2	Mo17	day11_11am_cold	2	m16	FALSE	3091189	86
+D05	leaf_2	Mo17	day12_4pm_control	2	m17	FALSE	6016519	86
+D06	leaf_2	Mo17	day15_4pm_control	2	m18	FALSE	3450487	86
+D07	leaf_3	Mo17	day15_4pm_control	2	m19	FALSE	2948319	86
+D08	leaf_2	B73	day9_12pm_cold	1	m22	FALSE	3889598	86
+D09	leaf_2	Mo17	day11_4pm_cold	2	m21	FALSE	3841380	86
+D10	leaf_2	Mo17	day11_11am_cold	3	m16	FALSE	5819246	86
+D11	leaf_2	Mo17	day11_4pm_cold	3	m21	FALSE	7712596	86
+D12	leaf_2	Mo17	day15_4pm_control	3	m18	FALSE	3256337	86
+E01	leaf_2	B73	day9_4pm_control	1	m23	FALSE	3856322	86
+E02	leaf_2	B73	day10_4pm_cold	1	m24	FALSE	4255911	86
+E03	leaf_2	B73	day10_4pm_control	3	m02	FALSE	4307087	86
+E04	leaf_2	B73	day11_4pm_control	3	m10	FALSE	2772689	86
+E05	leaf_2	B73	day12_4pm_cold	1	m25	FALSE	4659906	86
+E06	leaf_2	B73	day15_4pm_cold	1	m26	FALSE	1545614	86
+E07	leaf_3	B73	day15_4pm_cold	1	m27	FALSE	6067208	86
+E08	leaf_2	B73	day9_2pm_control	1	m28	FALSE	3568454	86
+E09	leaf_2	B73	day11_11am_control	2	m09	FALSE	4857996	86
+E10	leaf_2	B73	day11_12pm_control	1	m29	FALSE	4146377	86
+E11	leaf_2	B73	day12_4pm_control	2	m05	FALSE	5294487	86
+E12	leaf_2	B73	day15_4pm_cold	2	m26	FALSE	3325422	86
+F01	leaf_2	B73	day9_4pm_control	2	m23	FALSE	3648646	86
+F02	leaf_2	B73	day10_4pm_cold	2	m24	FALSE	5111614	86
+F03	leaf_2	Mo17	day10_4pm_control	3	m15	FALSE	4159601	86
+F04	leaf_2	B73	day11_4pm_control	4	m10	FALSE	5055582	86
+F05	leaf_2	B73	day12_4pm_cold	2	m25	FALSE	6826258	86
+F06	leaf_2	B73	day15_4pm_cold	3	m26	FALSE	5131163	86
+F07	leaf_3	B73	day15_4pm_cold	2	m27	FALSE	3640501	86
+F08	leaf_2	B73	day9_2pm_cold	1	m30	FALSE	4196335	86
+F09	leaf_2	B73	day11_11am_control	3	m09	FALSE	2387084	86
+F10	leaf_2	B73	day11_12pm_cold	1	m31	FALSE	6642905	86
+F11	leaf_2	Mo17	day12_4pm_control	3	m17	FALSE	8208892	86
+F12	leaf_2	Mo17	day15_4pm_cold	1	m32	FALSE	5018677	86
+G01	leaf_2	Mo17	day9_4pm_control	1	m33	FALSE	5366242	86
+G02	leaf_2	Mo17	day10_4pm_cold	1	m34	FALSE	1816565	86
+G03	leaf_2	B73	day10_4pm_cold	3	m24	FALSE	4280883	86
+G04	leaf_2	Mo17	day11_4pm_control	2	m13	FALSE	3694335	86
+G05	leaf_2	Mo17	day12_4pm_cold	1	m35	FALSE	3616756	86
+G06	leaf_2	Mo17	day15_4pm_cold	2	m32	FALSE	2903502	86
+G07	leaf_7	Mo17	day15_4pm_cold	1	m36	FALSE	5671037	86
+G08	leaf_2	B73	day9_4pm_control	3	m23	FALSE	6261564	86
+G09	leaf_2	Mo17	day11_11am_control	2	m12	FALSE	6955521	86
+G10	leaf_2	B73	day11_2pm_control	1	m37	FALSE	5574616	86
+G11	leaf_2	B73	day12_4pm_cold	3	m25	FALSE	6782374	86
+H01	leaf_2	Mo17	day9_4pm_control	2	m33	FALSE	2300737	86
+H02	leaf_2	Mo17	day10_4pm_cold	2	m34	FALSE	5171073	86
+H03	leaf_2	Mo17	day10_4pm_cold	3	m34	FALSE	6126041	86
+H04	leaf_2	Mo17	day11_4pm_control	3	m13	FALSE	12630	86
+H05	leaf_2	Mo17	day12_4pm_cold	2	m35	FALSE	4507985	86
+H06	leaf_2	Mo17	day15_4pm_cold	3	m32	FALSE	2230076	86
+H07	leaf_3	Mo17	day15_4pm_cold	1	m38	FALSE	4624801	86
+H08	leaf_2	Mo17	day9_4pm_control	3	m33	FALSE	6638572	86
+H09	leaf_2	Mo17	day11_11am_control	3	m12	FALSE	7376732	86
+H10	leaf_2	B73	day11_2pm_cold	1	m39	FALSE	6619274	86
+H11	leaf_2	Mo17	day12_4pm_cold	3	m35	FALSE	5581243	86

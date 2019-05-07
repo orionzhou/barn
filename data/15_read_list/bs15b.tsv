@@ -1,10 +1,10 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	paired	spots	avgLength
-s1	anther	B73		1	TRUE	33024817	102
-s2	anther	B73		2	TRUE	27799402	102
-s3	anther	B73		3	TRUE	34761756	102
-s4	earshoot	B73		1	TRUE	35977897	102
-s5	earshoot	B73		2	TRUE	35425126	102
-s6	earshoot	B73		3	TRUE	30969135	102
-s7	SAM	B73		1	TRUE	33834148	102
-s8	SAM	B73		2	TRUE	35386202	102
-s9	SAM	B73		3	TRUE	37906509	102
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+s1	anther	B73		1	m1	TRUE	33024817	102
+s2	anther	B73		2	m1	TRUE	27799402	102
+s3	anther	B73		3	m1	TRUE	34761756	102
+s4	earshoot	B73		1	m2	TRUE	35977897	102
+s5	earshoot	B73		2	m2	TRUE	35425126	102
+s6	earshoot	B73		3	m2	TRUE	30969135	102
+s7	SAM	B73		1	m3	TRUE	33834148	102
+s8	SAM	B73		2	m3	TRUE	35386202	102
+s9	SAM	B73		3	m3	TRUE	37906509	102

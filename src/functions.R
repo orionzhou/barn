@@ -13,7 +13,7 @@ t_cfg = read_xlsx(f_cfg, sheet=1, col_names=T) %>%
 generate_sample_id <- function(n, pre='s') {
     #{{{
     ndig = floor(log10(n)) + 1
-    fmt = sprintf("s%%0%dd", ndig)
+    fmt = sprintf("%s%%0%dd", pre, ndig)
     sprintf(fmt, 1:n)
     #}}}
 }
@@ -24,12 +24,16 @@ complete_sample_list <- function(ti) {
     if(!'Replicate' %in% colnames(ti)) ti = ti %>% mutate(Replicate='')
     if( is.na(ti$SampleID[1]) ) ti$SampleID = generate_sample_id(nrow(ti))
     if('directory' %in% colnames(ti)) ti = ti %>% fill(directory)
-    ti %>% fill(Tissue, Genotype, Treatment) %>%
+    to = ti %>% fill(Tissue, Genotype, Treatment) %>%
         select(SampleID, Tissue, Genotype, Treatment, Replicate, everything()) %>%
         arrange(SampleID, Tissue, Genotype, Treatment) %>%
         group_by(Tissue,Genotype,Treatment) %>%
         mutate(Replicate = 1:n()) %>%
         ungroup()
+    tos = to %>% distinct(Tissue, Genotype, Treatment)
+    tos = tos %>% mutate(MergeID = generate_sample_id(nrow(tos), pre='m'))
+    to %>% inner_join(tos, by = c('Tissue','Genotype','Treatment')) %>%
+        select(SampleID, Tissue, Genotype, Treatment, Replicate, MergeID, everything())
     #}}}
 }
 

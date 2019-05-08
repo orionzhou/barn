@@ -716,7 +716,7 @@ th %>% arrange(SampleID) %>% sra_fill_replicate(th)
 
 #{{{ SRA
 #{{{ work on single one
-yid = 'rn14f'
+yid = 'rn17d'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
 fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)

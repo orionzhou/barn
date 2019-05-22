@@ -4,6 +4,67 @@ t_cfg %>% select(-stranded,-interleaved,-readtype) %>% print(n=50)
 rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
+#{{{ SRA - work on single one
+yid = 'rn12a'
+acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
+ti = get_sra_meta(acc, yid)
+fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)
+write_csv(ti, fo)
+
+#{{{ work on random project
+acc = 'PRJNA305809'
+ti = get_sra_meta(acc, '')
+fo = sprintf("%s/tmp.csv", dird)
+write_csv(ti, fo)
+#}}}
+
+fx = file.path(dird, '09.sra.xlsx')
+tx = read_xlsx(fx, sheet=yid)
+tx = complete_sample_list(tx)
+fo = sprintf("%s/09_sra_list/%s.tsv", dird, yid)
+write_tsv(tx, fo, na = '')
+#}}}
+
+#{{{ SRA- work on many
+yids = rcfg %>% filter(!yid %in% c("rn18e",'rn99a')) %>% pull(yid)
+yids = yids[yids %in% c('dn12a','dn17b')]
+to = rcfg %>% select(yid, accession) %>%
+    filter(yid %in% yids, !is.na(accession)) %>%
+    mutate(fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)) %>%
+    mutate(data = map2(accession, yid, get_sra_meta))
+to %>% mutate(x = map2(data, fo, write_csv))
+
+ti = to %>% filter(yid == !!yid) %>% select(data) %>% unnest()
+ti %>% print(width=Inf)
+ti %>% count(lib_layout,lib_selection,lib_source,lib_strategy)
+
+# manually add to '09.sra.xlsx'
+fx = file.path(dird, '09.sra.xlsx')
+sheets = excel_sheets(fx)
+tx = tibble(fx = fx, sheet = sheets) %>%
+    mutate(fo = sprintf("%s/09_sra_list/%s.tsv", dird, sheet)) %>%
+    mutate(ti = map2(fx, sheet, read_xlsx)) %>%
+    mutate(to = map(ti, complete_sample_list))
+tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
+#}}}
+
+#{{{ local data
+yid = 'rn99f'
+fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
+lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
+interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)
+fi = file.path(dird, '05.local.xlsx')
+ti = read_xlsx(fi, sheet=lid)
+to = complete_sample_list(ti) %>%
+    mutate(data = map2(directory,file_prefix, locate_fastq,
+                       fmt=!!fmt, interleaved=!!interleaved)) %>%
+    unnest() %>% select(-directory,-file_prefix)
+to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
+#
+fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)
+write_tsv(to, fo)
+#}}}
+
 fix_read_list <- function(ti, yid) {
 #{{{
 if(yid == 'dn12a') {
@@ -714,54 +775,4 @@ th %>% arrange(SampleID) %>% sra_fill_replicate(th)
 #}}}
 }
 
-#{{{ SRA
-#{{{ work on single one
-yid = 'rn17d'
-acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
-ti = get_sra_meta(acc, yid)
-fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)
-write_csv(ti, fo)
-#}}}
-
-#{{{ work on many
-yids = rcfg %>% filter(!yid %in% c("rn18e",'rn99a')) %>% pull(yid)
-yids = yids[yids %in% c('dn12a','dn17b')]
-to = rcfg %>% select(yid, accession) %>%
-    filter(yid %in% yids, !is.na(accession)) %>%
-    mutate(fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)) %>%
-    mutate(data = map2(accession, yid, get_sra_meta))
-to %>% mutate(x = map2(data, fo, write_csv))
-
-ti = to %>% filter(yid == !!yid) %>% select(data) %>% unnest()
-ti %>% print(width=Inf)
-ti %>% count(lib_layout,lib_selection,lib_source,lib_strategy)
-#}}}
-
-# manually add to '09.sra.xlsx'
-fx = file.path(dird, '09.sra.xlsx')
-sheets = excel_sheets(fx)
-tx = tibble(fx = fx, sheet = sheets) %>%
-    mutate(fo = sprintf("%s/09_sra_list/%s.tsv", dird, sheet)) %>%
-    mutate(ti = map2(fx, sheet, read_xlsx)) %>%
-    mutate(to = map(ti, complete_sample_list))
-tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
-#}}}
-
-
-#{{{ local data
-yid = 'rn99f'
-fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
-lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
-interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)
-fi = file.path(dird, '05.local.xlsx')
-ti = read_xlsx(fi, sheet=lid)
-to = complete_sample_list(ti) %>%
-    mutate(data = map2(directory,file_prefix, locate_fastq,
-                       fmt=!!fmt, interleaved=!!interleaved)) %>%
-    unnest() %>% select(-directory,-file_prefix)
-to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
-#
-fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)
-write_tsv(to, fo)
-#}}}
 

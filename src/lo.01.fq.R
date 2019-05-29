@@ -5,7 +5,7 @@ rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
 #{{{ SRA - work on single one
-yid = 'rn12a'
+yid = 'rn14f'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
 fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)

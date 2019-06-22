@@ -1,49 +1,62 @@
-yid	libtype	author	source	format	lid	interleaved	accession	readtype	stranded	study	genotype	tissue	n	ref	mapper	ase	stress	meta	done	run	runB	runD	runR
-bs13a	bsseq	springer2013	local	umgc	sp014			illumina			B, M, O, CML322, Tx303	seeding_leaf3			bismark				T		T		
-bs14a	bsseq	springer2014	local	umgc	sp028			illumina			M, P, W, LH82, P39, PHZ51	seeding_leaf3			bismark				T		T		
-bs15a	bsseq	springer2015	local	umgc	sp029			illumina			various	seeding_leaf3			bismark				T				
-bs15b	bsseq	springer2015	local	umgc	sp031			illumina			B	3 tissues			bismark				T		T		
-bs16a	bsseq	springer2016	local	umgc	sp035			illumina							bismark				T				
-bs17a	bsseq	springer2017	local	umgc	sp053			illumina			B, P, BxP	root + shoot			bismark				T		T		
-bs17b	bsseq	springer2017	local	umgc	sp054			illumina							bismark				T				
-bs17c	bsseq	springer2017	local	umgc	sp056			illumina			B73, W22, other	leaf, root, callus			bismark				T		T		
-bs18a	bsseq	springer2018	local	umgc	sp063			illumina			B, M, O, W, BxM				bismark				T		T		
-dn12a	dnaseq	cshl2012	sra				SRP011907	illumina		hapmap2			103.0		bwa				T				
-dn14a	dnaseq	german2014	sra				PRJNA260788	illumina		german 31			31.0		bwa				T			T	
-dn15a	dnaseq	springer2015	local	umgc	sp030			illumina			Blanco, W22, Bravo				bwa				T				
-dn16a	dnaseq	phylos2016	sra				PRJNA347566	illumina		cs845	Cannabis sativa		845.0		bwa								
-dn17a	dnaseq	cornell2017	sra				PRJNA389800	illumina		282 set			277.0		bwa				T			T	
-dn17b	dnaseq	cornell2017	sra				PRJNA399729	illumina		hapmap3			598.0		bwa								
-dn18a	dnaseq	hirsch2018	local	jgi	bmd	T		illumina		biomAP	60 inbred parents		60.0		bwa				T				
-rn10a	rnaseq	li2010	sra				PRJNA79627	illumina		leaf 6 zones	B73	leaf	6.0		hisat2				T				
-rn11a	rnaseq	davidson2011	sra				PRJNA80041	illumina		reproductive 12	B73	reproductive	12.0		hisat2				T				
-rn12a	rnaseq		sra				PRJNA168086 PRJNA494874 PRJNA485828 PRJNA289143 PRJNA483200 PRJNA475209 PRJNA471036 PRJNA262503 PRJNA449867 PRJNA375801 PRJNA262781 PRJNA260793 PRJNA260183	illumina		TF mutants			13.0		hisat2				T				T
-rn13a	rnaseq	li2013	sra				PRJNA179160	illumina		eQTL	B,M and RILs	SAM	105.0		hisat2				T				
-rn13b	rnaseq	liu2013 yu2015	sra				PRJNA179196 PRJNA253977	illumina		leaf time-series 13t + 9t	B73	early and late leaf	22.0		hisat2				T				
-rn13c	rnaseq	eitchen2013	sra				PRJNA173886	illumina		diverse inbreds	62 inbreds	seedling_leaf3	62.0		hisat2				T				
-rn13d	rnaseq	waters2013	sra				PRJNA223677	illumina		imprinting	4 reciprocal hybrids	endosperm	8.0		hisat2				T				
-rn13e	rnaseq	fu2013	sra				PRJNA208608	illumina		kernel eQTL	368 inbreds	kernel_15DAP	368.0		hisat2				T				
-rn14a	rnaseq	hirsch2014	sra				PRJNA189400	illumina		pan-transcriptome	503 inbreds	seedling	503.0		hisat2				T				
-rn14b	rnaseq	li2014	sra				PRJNA235264	solid		endosperm 7t	B73	endosperm	7.0		hisat2				T				
-rn14c	rnaseq	chettoor2014	sra				PRJNA80075	illumina		7 gamete	B73	gamete 7	7.0		hisat2				T				
-rn14e	rnaseq	chen2014	sra				PRJNA237837	illumina		embryo+endosperm	B73	seed	53.0		hisat2				T				
-rn14f	rnaseq	umn2014	sra				PRJNA244661	illumina		stress	B73, B37, Oh43	seedling	27.0		hisat2		T		T				
-rn15a	rnaseq	leiboff2015	sra				PRJNA277023	illumina		SAM	380 lines	SAM	380.0		hisat2				T				
-rn16b	rnaseq	stelpflug2016	sra				PRJNA171684 SRP010680	illumina		atlas	B73	93 tissues	93.0		hisat2				T				
-rn16c	rnaseq	walley2016	sra				PRJNA217053	illumina		proteome	B73	23 tissues	23.0		hisat2				T				
-rn17a	rnaseq	lin2017	sra				SRA050451 SRA050790	illumina		eRD-GWAS	27 inbreds	5 tissues	133.0		hisat2				T				
-rn17b	rnaseq	waters2017	local	umgc	sp033			illumina		stress cis-trans	B, M, P, BxM, BxP	seedling_leaf3	15.0		hisat2		T		T				
-rn17c	rnaseq	marcon2017	sra				PRJNA284670	illumina		drought stress	B, M anf F1	root	8.0		hisat2	T	T		T				
-rn17d	rnaseq	zhang2017	sra				PRJNA343268	illumina		cold stress	maize, sorghum	10d whole plant			hisat2		T			T			
-rn18a	rnaseq	kremling2018	sra				PRJNA383416	3rnaseq		dysregulation	255 lines	7 tissues	1781.0		hisat2								
-rn18b	rnaseq	baldauf2018	sra				PRJNA391230 PRJNA392500	illumina		SPE	7 inbreds + 6 hybrids	3 root stages	46.0		hisat2				T				
-rn18c	rnaseq	wang2018	sra				PRJNA255192	illumina		maize-teosinte RIL	W,T and RILs	seedling_v2	623.0		hisat2				T				
-rn18d	rnaseq	schaefer2018	sra				PRJNA304663	illumina		root ionics	48 inbreds	root	48.0		hisat2				T				
-rn18e	rnaseq	huang2018	sra					illumina		tissue GRN	diverse collections	4 tissues	1136.0		hisat2								
-rn18f	rnaseq	sun2018	sra				PRJNA358298	illumina		mo17 genome	B, M	5 tissues	20.0		hisat2				T				
-rn18g	rnaseq	zhou2018	local	umgc	sp052			illumina	reverse	B73&Mo17 atlas	B, M, BxM	23 tissues	90.0		hisat2	T			T				T
-rn19a	rnaseq	mazaheri2019	sra				PRJNA437324	illumina		widiv biomass	453 inbreds	whole seedlings	453.0		hisat2				T				
-rn99a	rnaseq	kaeppler2018	sra					illumina		biomass	170 inbreds + 96 hybrids	5 tissues	460.0		hisat2								
-rn99c	rnaseq	li2019	local	jgi	bmr	T		illumina		biomAP	35 inbreds + 96 hybrids	5 tissues	465.0		hisat2				T				
-rn99d	rnaseq	enders	local	simple	rn99d			3rnaseq			B, M	leaf			hisat2		T		T				
-rn99f	rnaseq	anderson	local	umgc	sp064			illumina		imprinting	BxW, BxP, WxP	endosperm	12.0		hisat2	T			T				
+yid	libtype	alias	author	source	format	lid	interleaved	accession	readtype	stranded	study	genotype	tissue	n	ref	mapper	ase	stress	done	run	runB	runD	runR
+bs13a	bsseq		springer2013	local	umgc	sp014			illumina			B, M, O, CML322, Tx303	seeding_leaf3			bismark			T		T		
+bs13b	bsseq		regulski2013	sra				PRJNA170520	illumina		maize methylome	B, M	coleoptile			bismark			T		T		
+bs13c	bsseq		zhang2013	sra				SRP011991	illumina		methylation imprinting	B, BxM, MxB	endosperm			bismark			T		T		
+bs14a	bsseq		springer2014	local	umgc	sp028			illumina			M, P, W, LH82, P39, PHZ51	seeding_leaf3			bismark			T				
+bs15a	bsseq		springer2015	local	umgc	sp029			illumina			various	seeding_leaf3			bismark			T				
+bs15b	bsseq		springer2015	local	umgc	sp031			illumina			B	3 tissues			bismark			T				
+bs16a	bsseq		springer2016	local	umgc	sp035			illumina							bismark			T				
+bs17a	bsseq		springer2017	local	umgc	sp053			illumina			B, P, BxP	root + shoot			bismark			T				
+bs17b	bsseq		springer2017	local	umgc	sp054			illumina							bismark			T				
+bs17c	bsseq		springer2017	local	umgc	sp056			illumina			B73, W22, other	leaf, root, callus			bismark			T				
+bs18a	bsseq		springer2018	local	umgc	sp063			illumina			B, M, O, W, BxM				bismark			T				
+dn12a	dnaseq	hmp2	cshl2012	sra				SRP011907	illumina		hapmap2			103.0		bwa			T				
+dn14a	dnaseq	gem31	german2014	sra				PRJNA260788	illumina		german 31			31.0		bwa			T				
+dn15a	dnaseq	magic5	dell-acqua2015	sra				PRJNA272385	illumina		magic	5 magic inbreds		5.0		bwa							
+dn15b	dnaseq		springer2015	local	umgc	sp030			illumina			Blanco, W22, Bravo				bwa			T				
+dn16a	dnaseq		phylos2016	sra				PRJNA347566	illumina		cs845	Cannabis sativa		845.0		bwa							
+dn17a	dnaseq	m282	cornell2017	sra				PRJNA389800	illumina		282 set			277.0		bwa			T				
+dn17b	dnaseq	hmp3	cornell2017	sra				PRJNA399729	illumina		hapmap3			598.0		bwa			T				
+dn18a	dnaseq	biomap	hirsch2018	local	jgi	bmd	T		illumina		biomAP	60 inbred parents		60.0		bwa			T				
+dn19a	dnaseq	bdc		sra				PRJNA531553	illumina		big data center			521.0		bwa						T	
+rn10a	rnaseq		li2010	sra				PRJNA79627	illumina		leaf 6 zones	B73	leaf	6.0		hisat2			T				
+rn11a	rnaseq		davidson2011	sra				PRJNA80041	illumina		reproductive 12	B73	reproductive	12.0		hisat2			T				
+rn12a	rnaseq			sra				PRJNA168086 PRJNA494874 PRJNA485828 PRJNA289143 PRJNA483200 PRJNA475209 PRJNA471036 PRJNA262503 PRJNA449867 PRJNA375801 PRJNA262781 PRJNA260793 PRJNA260183	illumina		TF mutants			13.0		hisat2			T				
+rn13a	rnaseq		li2013	sra				PRJNA179160	illumina		eQTL	105 RILs + 2 parents	SAM	107.0		hisat2			T				
+rn13b	rnaseq		liu2013 yu2015	sra				PRJNA179196 PRJNA253977	illumina		leaf time-series 13t + 9t	B73	early and late leaf	22.0		hisat2			T				
+rn13c	rnaseq		eitchen2013	sra				PRJNA173886	illumina		diverse inbreds	62 inbreds	seedling_leaf3	62.0		hisat2			T				
+rn13d	rnaseq		waters2013	sra				PRJNA223677	illumina		imprinting	4 reciprocal hybrids	endosperm	8.0		hisat2			T				
+rn13e	rnaseq		fu2013	sra				PRJNA208608	illumina		kernel eQTL	368 inbreds	kernel_15DAP	368.0		hisat2			T				
+rn14a	rnaseq		hirsch2014	sra				PRJNA189400	illumina		pan-transcriptome	503 inbreds	seedling	503.0		hisat2			T				
+rn14b	rnaseq		li2014	sra				PRJNA235264	solid		endosperm 7t	B73	endosperm	7.0		hisat2			T				
+rn14c	rnaseq		chettoor2014	sra				PRJNA80075	illumina		7 gamete	B73	gamete 7	7.0		hisat2			T				
+rn14e	rnaseq		chen2014	sra				PRJNA237837	illumina		embryo+endosperm	B73	seed	53.0		hisat2			T				
+rn14f	rnaseq		umn2014	sra				PRJNA244661	illumina		stress	B73, B37, Oh43	seedling	27.0		hisat2		T	T				
+rn15a	rnaseq		leiboff2015	sra				PRJNA277023	illumina		SAM	380 lines	SAM	380.0		hisat2			T				
+rn15b	rnaseq		dell-acqua2015	sra				PRJEB8086	illumina		MAGIC parents	8 inbreds	leaf_4	8.0		hisat2			T				
+rn15c	rnaseq		baute2016	sra				PRJEB11400	illumina		MAGIC RILs	94 RILs + 8 parents	leaf_4	102.0		hisat2			T				
+rn15d	rnaseq		baute2015	sra				PRJEB9918	illumina		B73 x H99 RIL	104 RILs + 2 parents	leaf_4	106.0		hisat2			T				
+rn15e	rnaseq		weihmann2016	sra				PRJEB10574	illumina		Colletotrichum infection	B73, Golden Jubilee	leaf_3	8.0		hisat2		T	T				
+rn15f	rnaseq		chen2015	sra				PRJNA272651	illumina		nitrogen response	Zheng58, Chang7-2	leaf	4.0		hisat2		T	T				
+rn16b	rnaseq		stelpflug2016	sra				PRJNA171684 SRP010680	illumina		atlas	B73	93 tissues	93.0		hisat2			T				
+rn16c	rnaseq		walley2016	sra				PRJNA217053	illumina		proteome	B73	23 tissues	23.0		hisat2			T				
+rn17a	rnaseq		lin2017	sra				SRA050451 SRA050790	illumina		eRD-GWAS	27 inbreds	5 tissues	133.0		hisat2			T				
+rn17b	rnaseq		waters2017	local	umgc	sp033			illumina		stress cis-trans	B, M, P, BxM, BxP	seedling_leaf3	15.0		hisat2		T	T				
+rn17c	rnaseq		marcon2017	sra				PRJNA284670	illumina		drought stress	B, M and F1	root	8.0		star	T	T	T				
+rn17d	rnaseq		zhang2017	sra				PRJNA343268 PRJNA344653	illumina		cold stress	maize, sorghum	10d whole plant	6.0		hisat2		T	T				
+rn18a	rnaseq		kremling2018	sra				PRJNA383416	3rnaseq		dysregulation	255 lines	7 tissues	1781.0		hisat2			T				
+rn18b	rnaseq		baldauf2018	sra				PRJNA391230 PRJNA392500	illumina		SPE	7 inbreds + 6 hybrids	3 root stages	46.0		hisat2			T				
+rn18c	rnaseq		wang2018	sra				PRJNA255192	illumina		maize-teosinte RIL	W,T and RILs	seedling_v2	623.0		hisat2			T				
+rn18d	rnaseq		schaefer2018	sra				PRJNA304663	illumina		root ionics	48 inbreds	root	48.0		hisat2			T				
+rn18e	rnaseq		huang2018	sra					illumina		tissue GRN	diverse collections	4 tissues	1136.0		hisat2							
+rn18f	rnaseq		sun2018	sra				PRJNA358298	illumina		mo17 genome	B, M	5 tissues	20.0		hisat2			T				
+rn18g	rnaseq		zhou2018	local	umgc	sp052			illumina	reverse	B73&Mo17 atlas	B, M, BxM	23 tissues	90.0		hisat2	T		T				
+rn19a	rnaseq		mazaheri2019	sra				PRJNA437324	illumina		widiv biomass	453 inbreds	whole seedlings	453.0		hisat2			T				
+rn19b	rnaseq			sra				PRJNA522448	illumina		stem development	B, M	stem	7.0		hisat2							
+rn19c	rnaseq		yi2019	sra				PRJNA505095	illumina		seed dev	B73	seed	31.0		hisat2			T				
+rn99a	rnaseq		kaeppler2018	sra					illumina		biomass	170 inbreds + 96 hybrids	5 tissues	460.0		hisat2							
+rn99c	rnaseq		li2019	local	jgi	bmr	T		illumina		biomAP	35 inbreds + 96 hybrids	5 tissues	465.0		hisat2			T				
+rn99d	rnaseq		enders	local	simple	rn99d			3rnaseq			B, M	leaf			hisat2		T	T				
+rn99f	rnaseq		anderson	local	umgc	sp064			illumina		imprinting	BxW, BxP, WxP	endosperm	12.0		hisat2	T		T				
+cp16a	mnase		Rodgers-Melnick	sra				PRJNA297204	illumina			B73	root, shoot	4.0		bwa							
+cp19a	chiapet			sra				PRJNA493133	illumina			B73	shoot, ear	4.0		bwa							

@@ -5,7 +5,7 @@ rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
 #{{{ SRA - work on single one
-yid = 'rn14f'
+yid = 'rn15d'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
 fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)
@@ -18,8 +18,8 @@ fo = sprintf("%s/tmp.csv", dird)
 write_csv(ti, fo)
 #}}}
 
-fx = file.path(dird, '09.sra.xlsx')
-tx = read_xlsx(fx, sheet=yid)
+fx = sprintf("%s/08_sra_list_x/%s.xlsx", dird, yid)
+tx = read_xlsx(fx)
 tx = complete_sample_list(tx)
 fo = sprintf("%s/09_sra_list/%s.tsv", dird, yid)
 write_tsv(tx, fo, na = '')

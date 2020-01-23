@@ -1,4 +1,4 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	paired	spots	avgLength
+aSampleID	Tissue	Genotype	Treatment	Replicate	paired	spots	avgLength
 ERR1059392	leaf	MAGIC	ERX1139543	1	TRUE	19965565	202
 ERR1059393	leaf	MAGIC	ERX1139544	1	TRUE	14724864	202
 ERR1059394	leaf	MAGIC	ERX1139545	1	TRUE	14858766	202

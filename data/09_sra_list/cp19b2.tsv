@@ -1,0 +1,4 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+SRR9016271	seedling		1		m1	TRUE	33533051	300
+SRR9016272	seedling		2		m1	TRUE	36740715	300
+SRR9016274	seedling		3		m1	TRUE	33947094	300

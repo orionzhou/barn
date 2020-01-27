@@ -1,0 +1,5 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+SRR6977309			chip	2	m1	TRUE	16689182	300
+SRR6977310			igg	2	m2	TRUE	20101751	300
+SRR6977311			chip	1	m1	TRUE	25856399	300
+SRR6977312			igg	1	m2	TRUE	17356754	300

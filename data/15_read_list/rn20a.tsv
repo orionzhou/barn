@@ -1,0 +1,4 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+b01			batch1	1		F	1	1
+b02			batch2a	1		F	1	1
+b03			batch2b	1		F	1	1

@@ -51,16 +51,16 @@ tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
 #}}}
 
 #{{{ local data
-yid = 'rn20b'
+yid = 'rn17e'
 fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
 lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
 interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)
 fi = file.path(dird, '05.local.xlsx')
 ti = read_xlsx(fi, sheet=lid)
-to = complete_sample_list(ti, fillrep=F) %>%
+to = complete_sample_list(ti, fillrep=T) %>%
     mutate(data = map2(directory,file_prefix, locate_fastq,
                        fmt=!!fmt, interleaved=!!interleaved)) %>%
-    unnest() %>% select(-directory,-file_prefix)
+    unnest(data) %>% select(-directory,-file_prefix)
 to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
 #
 fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)

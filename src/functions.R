@@ -23,6 +23,10 @@ locate_fastq <- function(diri, file_prefix, fmt='umgc', interleaved=F) {
         r0 = sprintf("%s.fq", file_prefix)
         r1 = sprintf("%s_1.fq", file_prefix)
         r2 = sprintf("%s_2.fq", file_prefix)
+    } else if (fmt == 'custom1'){
+        r0 = sprintf("%s.fastq", file_prefix)
+        r1 = sprintf("pair1%s.fastq", file_prefix)
+        r2 = sprintf("pair2%s.fastq", file_prefix)
     } else {
         stop(sprintf("unknown fmt: %s\n", opt))
     }

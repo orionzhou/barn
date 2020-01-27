@@ -1,0 +1,5 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
+SRR8502757	bud		IgG	2	m1	FALSE	75860782	51
+SRR8502758	bud		IgG	1	m1	FALSE	75219445	51
+SRR8502759	bud		tb1	2	m2	FALSE	71254610	51
+SRR8502760	bud		tb1	1	m2	FALSE	128127103	51

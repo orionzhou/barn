@@ -1,6 +1,6 @@
 *
 !05.local.xlsx
-!06_local_list/*
-!08_sra_list_raw/*
-!09_sra_list/*
-!15_read_list/*
+!06_local_list/
+!08_sra_list_raw/
+!09_sra_list/
+!15_read_list/

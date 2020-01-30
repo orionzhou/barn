@@ -51,7 +51,7 @@ tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
 #}}}
 
 #{{{ local data
-yid = 'rn20a2'
+yid = 'ca20a2'
 fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
 lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
 interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)

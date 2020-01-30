@@ -1,0 +1,5 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,srx_design,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR1698463,GSM1562150_r1,SRX801129,TRUE,38581766,38581766,200,GSM1562150,GSM1562150: IgG_ChIPSeq; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM1562150,,,ChIP,GENOMIC,ChIP-Seq
+SRR1698462,GSM1562148_r1,SRX801128,TRUE,37915264,37915264,200,GSM1562148,GSM1562148: O2_ChIPSeq; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM1562148,,,ChIP,GENOMIC,ChIP-Seq
+SRR1588569,GSM1515455_r1,SRX712854,FALSE,41537072,0,180,GSM1515455,GSM1515455: wild type; Zea mays; RNA-Seq,,Zea mays Transcriptome or Gene expression,GSM1515455,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR1588568,GSM1515454_r1,SRX712853,FALSE,41066731,0,181,GSM1515454,GSM1515454: opaque2 mutant; Zea mays; RNA-Seq,,Zea mays Transcriptome or Gene expression,GSM1515454,,,cDNA,TRANSCRIPTOMIC,RNA-Seq

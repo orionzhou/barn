@@ -1,0 +1,34 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR1663694,Mo17_UV,SRX517437,TRUE,10933207,10933207,102,Mo17_UV,B37_UV,Zea mays Transcriptome or Gene expression,B37_UV,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663693,Mo17_salt,SRX517436,TRUE,9580408,9580408,102,Mo17_salt,B37_salt,Zea mays Transcriptome or Gene expression,B37_salt,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819632,Mo17_control_rep_3,SRX517435,TRUE,45290399,45290399,102,Mo17_control_R3,B37_control_R3,Zea mays Transcriptome or Gene expression,B37_control_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819630,Mo17_cont_rep_2,SRX517434,TRUE,35957158,35957158,102,Mo17_control_R2,B37_control_R2,Zea mays Transcriptome or Gene expression,B37_control_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1685964,Mo17_control_rep_1,SRX517433,TRUE,11425880,11425880,102,Mo17_control_R1,B37_control_R1,Zea mays Transcriptome or Gene expression,B37_control_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819627,Mo17_chill_rep_3,SRX517432,TRUE,42171012,42171012,102,Mo17_cold_R3,B37_cold_R3,Zea mays Transcriptome or Gene expression,B37_cold_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819625,Mo17_cold_rep_2,SRX517431,TRUE,34724466,34724466,102,Mo17_cold_R2,B37_cold_R2,Zea mays Transcriptome or Gene expression,B37_cold_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1685963,Mo17_cold_rep_1,SRX517430,TRUE,17675194,17675194,102,Mo17_cold_R1,B37_cold_R1,Zea mays Transcriptome or Gene expression,B37_cold_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819624,Mo17_heat_rep_3,SRX517429,TRUE,51540517,51540517,102,Mo17_heat_R3,B37_heat_R3,Zea mays Transcriptome or Gene expression,B37_heat_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819622,Mo17_heat_rep_2,SRX517428,TRUE,38045575,38045575,102,Mo17_heat_R2,B37_heat_R2,Zea mays Transcriptome or Gene expression,B37_heat_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1685982,Mo17_heat_rep_1,SRX517427,TRUE,13151755,13151755,102,Mo17_heat_R1,B37_heat_R1,Zea mays Transcriptome or Gene expression,B37_heat_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663702,Oh43_control_rep3,SRX768763,TRUE,28129362,28129362,102,Oh43_control_rep3,Oh43 control rep3,Zea mays Transcriptome or Gene expression,Oh43_control,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663704,Oh43_control_rep2,SRX768762,TRUE,27403769,27403769,102,Oh43_control_rep2,Oh43 control rep2,Zea mays Transcriptome or Gene expression,Oh43_control,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663701,Oh43_cold_rep3,SRX768761,TRUE,32586844,32586844,102,Oh43_cold_rep3,Oh43 cold rep3,Zea mays Transcriptome or Gene expression,Oh43_cold,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663696,Oh43_cold_rep2,SRX768760,TRUE,32210203,32210203,102,Oh43_cold_rep2,Oh43 cold rep2,Zea mays Transcriptome or Gene expression,Oh43_cold,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663699,Oh43_heat_rep3,SRX768759,TRUE,32486290,32486290,102,Oh43_heat_rep3,Oh43 heat rep3,Zea mays Transcriptome or Gene expression,Oh43_heat,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663698,Oh43_heat_rep2,SRX768758,TRUE,30385623,30385623,102,Oh43_heat_rep2,Oh43 heat rep2,Zea mays Transcriptome or Gene expression,Oh43_heat,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663706,Oh43_UV,SRX517453,TRUE,12540659,12540659,102,Oh43_UV,Oh43_UV,Zea mays Transcriptome or Gene expression,Oh43_UV,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663705,Oh43_salt,SRX517452,TRUE,11592762,11592762,102,Oh43_salt,Oh43_salt,Zea mays Transcriptome or Gene expression,Oh43_salt,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238724,Oh43_control_reads,SRX517451,TRUE,10466243,10466243,102,Oh43_control,Oh43_control,Zea mays Transcriptome or Gene expression,Oh43_control,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663695,Oh43_cold_rep1,SRX517450,TRUE,9925157,9925157,102,Oh43_cold,Oh43_cold,Zea mays Transcriptome or Gene expression,Oh43_cold,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1663691,Oh43_heat_rep1,SRX517449,TRUE,10466243,10466243,102,Oh43_heat,Oh43_heat,Zea mays Transcriptome or Gene expression,Oh43_heat,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238720,B73_UV_reads,SRX517448,TRUE,7078298,7078298,102,B73_UV,B73_UV,Zea mays Transcriptome or Gene expression,B73_UV,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238719,B73_salt_reads,SRX517447,TRUE,12413601,12413601,102,B73_salt,B73_salt,Zea mays Transcriptome or Gene expression,B73_salt,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819621,B73_cont_rep3,SRX517446,TRUE,40175033,40175033,102,B73_control_R3,B73_control_R3,Zea mays Transcriptome or Gene expression,B73_control_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819617,B73_cont_rep2,SRX517445,TRUE,33557107,33557107,102,B73_control_R2,B73_control_R2,Zea mays Transcriptome or Gene expression,B73_control_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238718,B73_control_rep1,SRX517444,TRUE,13748589,13748589,102,B73_control_R1,B73_control_R1,Zea mays Transcriptome or Gene expression,B73_control_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819205,B73_cold_stress_rep3,SRX517443,TRUE,44422177,44422177,102,B73_cold_R3,B73_cold_R3,Zea mays Transcriptome or Gene expression,B73_cold_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819204,B73_cold_stress_rep2,SRX517442,TRUE,32590508,32590508,102,B73_cold_R2,B73_cold_R2,Zea mays Transcriptome or Gene expression,B73_cold_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238717,B73_cold_rep1,SRX517441,TRUE,11271326,11271326,102,B73_cold_R1,B73_cold_R1,Zea mays Transcriptome or Gene expression,B73_cold_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819198,B73_heat_stress_rep3,SRX517440,TRUE,35587015,35587015,102,B73_heat_R3,B73_heat_R3,Zea mays Transcriptome or Gene expression,B73_heat_R3,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1819196,B73_heat_stress_rep2,SRX517439,TRUE,40804694,40804694,102,B73_heat_R2,B73_heat_R2,Zea mays Transcriptome or Gene expression,B73_heat_R2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1238715,B73_heat_rep1,SRX517438,TRUE,8627575,8627575,102,B73_heat_R1,B73_heat_R1,Zea mays Transcriptome or Gene expression,B73_heat_R1,,,unspecified,TRANSCRIPTOMIC,RNA-Seq

@@ -1,0 +1,13 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR254176,ES3,SRX072648,TRUE,17853952,17853952,160,Esac3 Sequence,Maize_EmbryoSac_cDNA_3_Library1,Zea mays Transcriptome or Gene expression,FGMG-ES3,,MaizeEmbryoSac3,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR254170,ES2,SRX072647,TRUE,16741404,16741404,160,Esac2 Sequence,Maize_EmbryoSac_cDNA_2_Library1,Zea mays Transcriptome or Gene expression,FGMG-ES2,,MaizeEmbryoSac2,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR254169,ES1,SRX072646,TRUE,14847590,14847590,160,Esac1 Sequence,Maize_EmbryoSac_cDNA_1_Library1,Zea mays Transcriptome or Gene expression,FGMG-ES1,,MaizeEmbryoSac1,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR254175,O3,SRX072640,TRUE,18305557,18305557,160,Ovule3 Sequence,Maize_Ovule_cDNA_3_Library1,Zea mays Transcriptome or Gene expression,FGMG-O3,,MaizeOvule3,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR254172,O2,SRX072639,TRUE,38345755,38345755,160,Ovule2 Sequence,Maize_Ovule_cDNA_2_Library1,Zea mays Transcriptome or Gene expression,FGMG-O2,,MaizeOvule2,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR254171,O1,SRX072638,TRUE,42323839,42323839,160,Ovule1 Sequence,Maize_Ovule_cDNA_1_Library1,Zea mays Transcriptome or Gene expression,FGMG-O1,,MaizeOvule1,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR252662,P3,SRX072637,TRUE,38147844,38147844,160,Pollen3 Sequence,Maize_MaturePollen_cDNA_3_Library1,Zea mays Transcriptome or Gene expression,FGMG-P3,,MaizePollen3,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR255405,P2-01,SRX072636,TRUE,37064206,37064206,160,Pollen2 Sequence,Maize_MaturePollen_cDNA_2_Library1,Zea mays Transcriptome or Gene expression,FGMG-P2,,MaizePollen2,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR250415,S3,SRX072635,TRUE,14127449,14127449,160,Seedling3 Sequence,Maize_Seedling_cDNA_3_Library1,Zea mays Transcriptome or Gene expression,FGMG-S3,,MaizeSeedling3,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR248565,FGMG-S2,SRX072632,TRUE,32460408,32460408,160,Seedling2 Sequence,Maize_Seedling_cDNA_2_Library1,Zea mays Transcriptome or Gene expression,FGMG-S2,,MaizeSeedling2,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR250416,P1,SRX072631,TRUE,24885231,24885231,160,P1 Sequence,Maize_MaturePollen_cDNA_1_Library1,Zea mays Transcriptome or Gene expression,FGMG-P1,,MaizePollen1,size fractionation,TRANSCRIPTOMIC,RNA-Seq
+SRR242505,FGMG-S1,SRX070126,TRUE,20182523,20182523,160,FGMG,Maize_Seedling_cDNA_1_Library1,Zea mays Transcriptome or Gene expression,FGMG-S1,,MaizeSeedling1,size fractionation,TRANSCRIPTOMIC,RNA-Seq

@@ -1,0 +1,61 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR1507206,T192,SRX646332,TRUE,243456912,243456912,202,MLT84192-T192,Maize 2nd leaf transcriptome at T192,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507205,T168,SRX646331,TRUE,235417723,235417723,202,MLT84192-T168,Maize 2nd leaf trancriptome at T168,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507204,T156,SRX646330,TRUE,224336322,224336322,202,MLT84192-T156,Maize 2nd leaf transcriptome at T156,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507203,T144,SRX646329,TRUE,269072123,269072123,202,MLT84192-T144,Maize 2nd leaf transcriptome at T144,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507202,T132,SRX646328,TRUE,238676908,238676908,202,MLT84192-T132,Maize 2nd leaf transcriptome at T132,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507201,T120,SRX646327,TRUE,243642414,243642414,202,MLT84192-T120,Maize 2nd leaf transcriptome at T120,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507200,T108,SRX646326,TRUE,217401796,217401796,202,MLT84192-T0108,Maize 2nd leaf transcriptome at T108,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507199,T096,SRX646325,TRUE,281029167,281029167,202,MLT84192-T096,Maize 2nd leaf transcriptome at T096,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,ST-DE02,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507198,ST-DI03,SRX646324,TRUE,227896258,227896258,202,MLT84192-T084,Maize 2nd leaf transcriptome at T084,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,T084,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR1507197,MLT84192-T084,SRX646318,FALSE,100051202,0,101,MLT84192,Maize Leaf transcriptomes T084-T192,Zea mays subsp. mays strain:White Crystal Transcriptome or Gene expression,maize leaf transcriptomes,,MLT84192,PolyA,TRANSCRIPTOMIC,RNA-Seq
+SRR950186,Etio_T72-400,SRX333405,TRUE,206333049,206333049,202,Etio_T72-400,Etiolated Maize Embryonic Leaves: 72-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T72,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950185,Etio_T72-300,SRX333404,TRUE,192366142,192366142,202,Etio_T72-300,Etiolated Maize Embryonic Leaves: 72-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T72,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950184,Etio_T66-400,SRX333403,TRUE,148831976,148831976,202,Etio_T66-400,Etiolated Maize Embryonic Leaves: 66-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T66,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950183,Etio_T66-300,SRX333402,TRUE,168659865,168659865,202,Etio_T66-300,Etiolated Maize Embryonic Leaves: 66-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T66,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950182,Etio_T60-400,SRX333401,TRUE,159541384,159541384,202,Etio_T60-400,Etiolated Maize Embryonic Leaves: 60-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T60,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950181,Etio_T60-300,SRX333400,TRUE,173408650,173408650,202,Etio_T60-300,Etiolated Maize Embryonic Leaves: 60-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T60,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950164,Etio_T54-400,SRX333383,TRUE,95978723,95978723,202,Etio_T54-400,Etiolated Maize Embryonic Leaves: 54-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T54,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950163,Etio_T54-300,SRX333382,TRUE,155762514,155762514,202,Etio_T54-300,Etiolated Maize Embryonic Leaves: 54-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T54,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950162,Etio_T48-400,SRX333381,TRUE,106082278,106082278,202,Etio_T48-400,Etiolated Maize Embryonic Leaves: 48-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T48,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950161,Etio_T48-300,SRX333380,TRUE,126211359,126211359,202,Etio_T48-300,Etiolated Maize Embryonic Leaves: 48-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T48,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950111,Etio_T42-400,SRX333379,TRUE,119556477,119556477,202,Etio_T42-400,Etiolated Maize Embryonic Leaves: 42-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T42,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950110,Etio_T42-300,SRX333378,TRUE,198517913,198517913,202,Etio_T42-300,Etiolated Maize Embryonic Leaves: 42-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T42,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950105,Etio_T36-400,SRX333371,TRUE,108248535,108248535,202,Etio_T36-400,Etiolated Maize Embryonic Leaves: 36-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T36,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950104,Etio_T36-300,SRX333370,TRUE,168390713,168390713,202,Etio_T36-300,Etiolated Maize Embryonic Leaves: 36-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T36,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950103,Etio_T30-400,SRX333369,TRUE,113983494,113983494,202,Etio_T30-400,Etiolated Maize Embryonic Leaves: 30-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T30,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950102,Etio_T30-300,SRX333368,TRUE,194458287,194458287,202,Etio_T30-300,Etiolated Maize Embryonic Leaves: 30-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T30,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950101,Etio_T24-400,SRX333367,TRUE,143098358,143098358,202,Etio_T24-400,Etiolated Maize Embryonic Leaves: 24-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T24,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950100,Etio_T24-300,SRX333366,TRUE,126053644,126053644,202,Etio_T24-300,Etiolated Maize Embryonic Leaves: 24-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T24,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950099,Etio_T18-400,SRX333365,TRUE,160738650,160738650,202,Etio_T18-400,Etiolated Maize Embryonic Leaves: 18-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T18,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950098,Etio_T18-300,SRX333364,TRUE,192601486,192601486,202,Etio_T18-300,Etiolated Maize Embryonic Leaves: 18-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T18,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950097,Etio_T12-400,SRX333363,TRUE,173422973,173422973,202,Etio_T12-400,Etiolated Maize Embryonic Leaves: 12-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T12,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950096,Etio_T12-300,SRX333362,TRUE,166258782,166258782,202,Etio_T12-300,Etiolated Maize Embryonic Leaves: 12-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T12,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950095,Etio_T06-400,SRX333361,TRUE,134498989,134498989,202,Etio_T06-400,Etiolated Maize Embryonic Leaves: 06-Hour (400bp),Zea mays Transcriptome or Gene expression,Etiolated_T06,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR950094,Etio_T06-300,SRX333360,TRUE,200907354,200907354,202,Etio_T06-300,Etiolated Maize Embryonic Leaves: 06-Hour (300bp),Zea mays Transcriptome or Gene expression,Etiolated_T06,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616253,T72-400,SRX204214,TRUE,142251010,142251010,202,T72-400,Maize Embryonic Leaves: 72-Hour (400bp),Zea mays Transcriptome or Gene expression,T72,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616252,T72-300,SRX204213,TRUE,128898161,128898161,202,T72-300,Maize Embryonic Leaves: 72-Hour (300bp),Zea mays Transcriptome or Gene expression,T72,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616251,T66-400,SRX204212,TRUE,132324988,132324988,202,T66-400,Maize Embryonic Leaves: 66-Hour (400bp),Zea mays Transcriptome or Gene expression,T66,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616250,T66-300,SRX204211,TRUE,159370230,159370230,202,T66-300,Maize Embryonic Leaves: 66-Hour (300bp),Zea mays Transcriptome or Gene expression,T66,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616249,T60-400,SRX204210,TRUE,121059474,121059474,202,T60-400,Maize Embryonic Leaves: 60-Hour (400bp),Zea mays Transcriptome or Gene expression,T60,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616248,T60-300,SRX204209,TRUE,155019145,155019145,202,T60-300,Maize Embryonic Leaves: 60-Hour (300bp),Zea mays Transcriptome or Gene expression,T60,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616197,T54-400,SRX204204,TRUE,119682060,119682060,202,T54-400,Maize Embryonic Leaves: 54-Hour (400bp),Zea mays Transcriptome or Gene expression,T54,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616196,T54-300,SRX204203,TRUE,144717149,144717149,202,T54-300,Maize Embryonic Leaves: 54-Hour (300bp),Zea mays Transcriptome or Gene expression,T54,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616195,T48-400,SRX204202,TRUE,101419601,101419601,202,T48-400,Maize Embryonic Leaves: 48-Hour (400bp),Zea mays Transcriptome or Gene expression,T48,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616194,T48-300,SRX204201,TRUE,93435706,93435706,202,T48-300,Maize Embryonic Leaves: 48-Hour (300bp),Zea mays Transcriptome or Gene expression,T48,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616193,T42-400,SRX204200,TRUE,111772419,111772419,202,T42-400,Maize Embryonic Leaves: 42-Hour (400bp),Zea mays Transcriptome or Gene expression,T42,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616192,T42-300,SRX204199,TRUE,89822131,89822131,202,T42-300,Maize Embryonic Leaves: 42-Hour (300bp),Zea mays Transcriptome or Gene expression,T42,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616191,T36-400,SRX204198,TRUE,100378375,100378375,202,T36-400,Maize Embryonic Leaves: 36-Hour (400bp),Zea mays Transcriptome or Gene expression,T36,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616190,T36-300,SRX204197,TRUE,134936491,134936491,202,T36-300,Maize Embryonic Leaves: 36-Hour (300bp),Zea mays Transcriptome or Gene expression,T36,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616189,T30-400,SRX204196,TRUE,89047211,89047211,202,T30-400,Maize Embryonic Leaves: 30-Hour (400bp),Zea mays Transcriptome or Gene expression,T30,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR616188,T30-300,SRX204195,TRUE,122078589,122078589,202,T30-300,Maize Embryonic Leaves: 30-Hour (300bp),Zea mays Transcriptome or Gene expression,T30,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611839,T24-400,SRX203302,TRUE,115076583,115076583,202,T24-400,Maize Embryonic Leaves: 24-Hour (400bp),Zea mays Transcriptome or Gene expression,T24,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611838,T24-300,SRX203301,TRUE,121811841,121811841,202,T24-300,Maize Embryonic Leaves: 24-Hour (300bp),Zea mays Transcriptome or Gene expression,T24,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611837,T18-400,SRX203300,TRUE,92824469,92824469,202,T18-400,Maize Embryonic Leaves: 18-Hour (400bp),Zea mays Transcriptome or Gene expression,T18,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611836,T18-300,SRX203299,TRUE,137351395,137351395,202,T18-300,Maize Embryonic Leaves: 18-Hour (300bp),Zea mays Transcriptome or Gene expression,T18,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611835,T12-400,SRX203298,TRUE,95265559,95265559,202,T12-400,Maize Embryonic Leaves: 12-Hour (400bp),Zea mays Transcriptome or Gene expression,T12,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611834,T12-300,SRX203297,TRUE,138766133,138766133,202,T12-300,Maize Embryonic Leaves: 12-Hour (300bp),Zea mays Transcriptome or Gene expression,T12,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611823,T06-300,SRX203290,TRUE,142862168,142862168,202,T06-300,Maize Embryonic Leaves: 06-Hour (300bp),Zea mays Transcriptome or Gene expression,T06,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611822,T06-400,SRX203289,TRUE,83215053,83215053,202,T06-400,Maize Embryonic Leaves: 06-Hour (400bp),Zea mays Transcriptome or Gene expression,T06,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611807,T00-400,SRX203283,TRUE,82902125,82902125,202,T00-400,Maize Embryonic Leaves: 00-Hour (400bp),Zea mays Transcriptome or Gene expression,T00,,,cDNA,TRANSCRIPTOMIC,RNA-Seq
+SRR611806,T00-300,SRX203282,TRUE,143961910,143961910,202,T00-300,Maize Embryonic Leaves: 00-Hour (300bp),Zea mays Transcriptome or Gene expression,T00,,,cDNA,TRANSCRIPTOMIC,RNA-Seq

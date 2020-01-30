@@ -1,0 +1,5 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,srx_design,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR504833,GSM945802_r1,SRX151996,FALSE,4767822,0,75,GSM945802_1,GSM945802: Pericarp_P-ww_14DAP_ChIP_2; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM945802,,GSM945802: Pericarp_P-ww_14DAP_ChIP_2,ChIP,GENOMIC,ChIP-Seq
+SRR504832,GSM945801_r1,SRX151995,FALSE,3258321,0,75,GSM945801_1,GSM945801: Pericarp_P-rr_14DAP_ChIP_2; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM945801,,GSM945801: Pericarp_P-rr_14DAP_ChIP_2,ChIP,GENOMIC,ChIP-Seq
+SRR504831,GSM945800_r1,SRX151994,FALSE,3622258,0,51,GSM945800_1,GSM945800: Pericarp_P-ww_14DAP_ChIP_1; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM945800,,GSM945800: Pericarp_P-ww_14DAP_ChIP_1,ChIP,GENOMIC,ChIP-Seq
+SRR504830,GSM945799_r1,SRX151993,FALSE,5481441,0,51,GSM945799_1,GSM945799: Pericarp_P-rr_14DAP_ChIP_1; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM945799,,GSM945799: Pericarp_P-rr_14DAP_ChIP_1,ChIP,GENOMIC,ChIP-Seq

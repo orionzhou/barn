@@ -1,0 +1,5 @@
+srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,srx_design,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
+SRR1770107,PRJNA272651-LN Chang7-2,SRX850780,TRUE,19129606,19129606,200,PRJNA272651-LN Chang7-2,nitrogen response in maize,,Zea mays Transcriptome or Gene expression,LN Chang7-2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1770105,PRJNA272651-NN Chang7-2,SRX850778,TRUE,17413303,17413303,200,PRJNA272651-NN Chang7-2,nitrogen response in maize,,Zea mays Transcriptome or Gene expression,NN Chang7-2,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1770102,PRJNA272651-LN Zheng58,SRX850758,TRUE,21988174,21988174,200,PRJNA272651-LN Zheng58,nitrogen response in maize,,Zea mays Transcriptome or Gene expression,LN Zheng58,,,unspecified,TRANSCRIPTOMIC,RNA-Seq
+SRR1765672,PRJNA272651,SRX847176,TRUE,23736829,23736829,200,PRJNA272651,nitrogen response in maize,,Zea mays Transcriptome or Gene expression,NN Zheng58,,,unspecified,TRANSCRIPTOMIC,RNA-Seq

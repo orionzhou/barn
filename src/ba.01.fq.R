@@ -5,7 +5,7 @@ rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
 #{{{ SRA - work on single one
-yid = 'rn20a2'
+yid = 'rn20'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 if(yid == 'rn99a') acc = read_tsv(file.path(dird, 'rn99a_bpid.txt'),col_names=F)$X1
 ti = get_sra_meta(acc, yid)
@@ -19,7 +19,7 @@ fo = sprintf("%s/tmp.csv", dird)
 write_csv(ti, fo)
 #}}}
 
-yid = 'rn20a2'
+yid = 'rn20a'
 fx = sprintf("%s/08_sra_list_x/%s.xlsx", dird, yid)
 tx = read_xlsx(fx)
 tx = complete_sample_list(tx, fillrep=T)
@@ -51,7 +51,7 @@ tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
 #}}}
 
 #{{{ local data
-yid = 'rn17e'
+yid = 'rn20a2'
 fmt = lcfg %>% filter(yid==!!yid) %>% pull(format)
 lid = lcfg %>% filter(yid==!!yid) %>% pull(lid)
 interleaved = lcfg %>% filter(yid==!!yid) %>% pull(interleaved)
@@ -62,7 +62,7 @@ to = complete_sample_list(ti, fillrep=T) %>%
                        fmt=!!fmt, interleaved=!!interleaved)) %>%
     unnest(data) %>% select(-directory,-file_prefix)
 to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
-#
+
 fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)
 write_tsv(to, fo)
 #}}}

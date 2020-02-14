@@ -64,7 +64,7 @@ to = complete_sample_list(ti, fillrep=T) %>%
 to %>% count(MergeID, Genotype, Tissue, Treatment) %>% print(n=50)
 
 fo = sprintf("%s/06_local_list/%s.tsv", dird, yid)
-write_tsv(to, fo)
+write_tsv(to, fo, na='')
 #}}}
 
 fix_read_list <- function(ti, yid) {

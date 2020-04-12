@@ -1,4 +1,4 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	Timepiont	Experiment	paired	interleaved	r0	r1	r2
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	Timepoint	Experiment	paired	interleaved	r0	r1	r2
 HY1	leaf	B73	Control	1	m01	0	HY	TRUE	FALSE	""	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY1_S79_R1_001.fastq.gz	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY1_S79_R2_001.fastq.gz
 HY10	leaf	B73xMo17	Control	1	m02	0	HY	TRUE	FALSE	""	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY10_S88_R1_001.fastq.gz	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY10_S88_R2_001.fastq.gz
 HY100	leaf	B73xMo17	Cold	1	m03	25	HY	TRUE	FALSE	""	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY100_S178_R1_001.fastq.gz	/home/springer/data_release/umgc/novaseq/200128_A00223_0311_AHLCMJDSXX/Springer_Project_069/HY100_S178_R2_001.fastq.gz

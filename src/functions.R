@@ -3,11 +3,12 @@ load_all('~/git/rmaize')
 require(rentrez)
 require(xml2)
 dird = '~/projects/barn/data'
-f_cfg = '~/projects/master.xlsx'
-t_cfg = read_xlsx(f_cfg, sheet='barn', col_names=T) %>%
-    mutate(interleaved = as.logical(interleaved)) %>%
-    mutate(run = as.logical(run)) %>%
-    replace_na(list(interleaved=F, done=F, run=F))
+t_cfg = read_gspread_master()
+#f_cfg = '~/projects/master.xlsx'
+#t_cfg = read_xlsx(f_cfg, sheet='barn', col_names=T) %>%
+    #mutate(interleaved = as.logical(interleaved)) %>%
+    #mutate(run = as.logical(run)) %>%
+    #replace_na(list(interleaved=F, done=F, run=F))
 
 locate_fastq <- function(diri, file_prefix, fmt='umgc', interleaved=F) {
     #{{{

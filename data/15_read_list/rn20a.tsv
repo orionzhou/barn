@@ -1,4 +1,4 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	Timepiont	Experiment	paired	spots	avgLength
+SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	Timepoint	Experiment	paired	spots	avgLength
 HY1	leaf	B73	Control	1	m01	0	HY	TRUE	29622860	302
 HY10	leaf	B73xMo17	Control	1	m02	0	HY	TRUE	28660166	302
 HY100	leaf	B73xMo17	Cold	1	m03	25	HY	TRUE	35274653	302

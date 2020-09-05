@@ -1,0 +1,56 @@
+SampleID	Tissue	Genotype	directory	file_prefix
+	leaf	unk	/home/springer/data_release/umgc/hiseq/171107_D00635_0298_ACBRL5ANXX/Springer_Project_056	PAC001_S15
+				PAC002_S16
+				PAC003_S17
+				PAC004_S18
+				PAC005_S19
+				PAC006_S20
+				PAC007_S21
+				PAC008_S22
+				PAC009_S23
+				PAC010_S24
+				PAC011_S25
+				PAC012_S26
+			/home/springer/data_release/umgc/hiseq/171107_D00635_0299_BCBRPDANXX/Springer_Project_056	PAC001_S1
+				PAC002_S2
+				PAC003_S3
+				PAC004_S4
+				PAC005_S5
+				PAC006_S6
+				PAC007_S7
+				PAC008_S8
+				PAC009_S9
+				PAC010_S10
+				PAC011_S11
+				PAC012_S12
+		BR3	/home/springer/data_release/umgc/hiseq/171218_D00635_0314_ACC5BFANXX/Springer_Project_057	PAC0013_S1
+		BR3		PAC0014_S2
+		BAM349		PAC0015_S3
+		BAM349		PAC0016_S4
+		DI676		PAC0017_S5
+		DI676		PAC0018_S6
+		W22		PAC0019_S7
+		W22		PAC0020_S8
+	leaf	Arc60		PAC0021_S9
+	root	Arc60		PAC0022_S10
+	callus	Arc60		PAC0023_S11
+	callus	Arc60		PAC0024_S12
+	leaf	unk	/home/springer/data_release/umgc/hiseq/171222_D00635_0316_BCBYM7ANXX/Springer_Project_057	PAC0013_S1
+				PAC0014_S2
+				PAC0015_S3
+				PAC0016_S4
+				PAC0017_S5
+				PAC0018_S6
+				PAC0019_S7
+				PAC0020_S8
+				PAC0021_S9
+				PAC0022_S10
+				PAC0023_S11
+				PAC0024_S12
+			/home/springer/data_release/umgc/hiseq/180914_D00635_0408_BCCG2KANXX/Springer_Project_062	PAC025_S1
+				PAC026_S2
+				PAC027_S3
+				PAC028_S4
+				PAC029_S5
+				PAC030_S6
+				PAC031_S7

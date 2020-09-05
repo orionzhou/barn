@@ -1,0 +1,5 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	paired
+SRR6002634		PH207		1	TRUE
+SRR6002686		PH207		2	TRUE
+SRR5976302		Mo17		1	TRUE
+SRR5976325		W22		1	TRUE

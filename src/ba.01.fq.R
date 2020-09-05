@@ -5,7 +5,7 @@ rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
 #{{{ SRA - work on single one
-yid = 'rn20g'
+yid = 'rn20i'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 if(yid == 'rn99a') acc = read_tsv(file.path(dird, 'rn99a_bpid.txt'),col_names=F)$X1
 ti = get_sra_meta(acc, yid)
@@ -51,11 +51,11 @@ tx %>% mutate(x = map2(to, fo, write_tsv, na = ''))
 #}}}
 
 #{{{ local data
-yid = 'ca20a4'
+yid = 'rn20h'
 lid = lcfg %>% filter(yid==!!yid) %>% pull(accession)
 fi = sprintf("%s/05_msi/%s.tsv", dird, lid)
 ti = read_tsv(fi)
-to = complete_sample_list(ti, fillrep=T) %>%
+to = complete_sample_list(ti, fillrep=F) %>%
     mutate(data = map2(directory,file_prefix, locate_fastq,
                        fmt='umgc', interleaved=F)) %>%
     unnest(data) %>% select(-directory,-file_prefix)

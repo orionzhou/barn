@@ -1,0 +1,10 @@
+SampleID	Tissue	Genotype	directory	file_prefix
+	anther	B73	/home/springer/data_release/umgc/hiseq/150409_D00635_0049_BC6FMUANXX/Project_Springer_Project_031	Anther_R1_AGTCAA_L007
+				Anther_R2_CCGTCC_L007
+				Anther_R3_GTGGCC_L007
+	earshoot			Earshoot_R1_AGTTCC_L007
+				Earshoot_R2_GTCCGC_L007
+				Earshoot_R3_GTTTCG_L007
+	SAM			SAM_R1_ATGTCA_L007
+				SAM_R2_GTGAAA_L007
+				SAM_R3_CGTACG_L007

@@ -1,0 +1,82 @@
+SampleID	Tissue	Genotype	Treatment	directory	file_prefix
+	seedling_leaf3	B73	cold	/home/springer/data_release/umgc/hiseq/151015_D00635_0083_BC7N57ANXX/Project_Springer_Project_033	B73_cold_rep1_TTAGGC_L003
+					B73_cold_rep2_TGACCA_L003
+					B73_cold_rep3_resubmit_GGCTAC_L003
+			control		B73_control_rep1_ATCACG_L003
+					B73_control_rep2_CGATGT_L003
+					B73_control_rep3_resubmit_CTTGTA_L003
+			heat		B73_heat_rep1_resubmit_AGTCAA_L003
+					B73_heat_rep2_ACAGTG_L003
+					B73_heat_rep3_resubmit_AGTTCC_L003
+		B73xMo17	cold		B73xMo17_cold_rep1_GAGTGG_L005
+					B73xMo17_cold_rep1_GAGTGG_L006
+					B73xMo17_cold_rep1_GAGTGG_L007
+					B73xMo17_cold_rep2_ACTGAT_L005
+					B73xMo17_cold_rep2_ACTGAT_L006
+					B73xMo17_cold_rep2_ACTGAT_L007
+					B73xMo17_cold_rep3_ATTCCT_L005
+					B73xMo17_cold_rep3_ATTCCT_L006
+					B73xMo17_cold_rep3_ATTCCT_L007
+			control		B73xMo17_control_rep1_GTTTCG_L005
+					B73xMo17_control_rep1_GTTTCG_L006
+					B73xMo17_control_rep1_GTTTCG_L007
+					B73xMo17_control_rep2_CGTACG_L005
+					B73xMo17_control_rep2_CGTACG_L006
+					B73xMo17_control_rep2_CGTACG_L007
+					B73xMo17_control_rep3_TTAGGC_L005
+					B73xMo17_control_rep3_TTAGGC_L006
+					B73xMo17_control_rep3_TTAGGC_L007
+			heat		B73xMo17_heat_rep1_ATCACG_L005
+					B73xMo17_heat_rep1_ATCACG_L006
+					B73xMo17_heat_rep1_ATCACG_L007
+					B73xMo17_heat_rep2_CGATGT_L005
+					B73xMo17_heat_rep2_CGATGT_L006
+					B73xMo17_heat_rep2_CGATGT_L007
+					B73xMo17_heat_rep3_resubmit_ATGTCA_L005
+					B73xMo17_heat_rep3_resubmit_ATGTCA_L006
+					B73xMo17_heat_rep3_resubmit_ATGTCA_L007
+		B73xPH207	cold		B73xPH207_cold_rep1_GCCAAT_L005
+					B73xPH207_cold_rep1_GCCAAT_L006
+					B73xPH207_cold_rep1_GCCAAT_L007
+					B73xPH207_cold_rep2_CAGATC_L005
+					B73xPH207_cold_rep2_CAGATC_L006
+					B73xPH207_cold_rep2_CAGATC_L007
+					B73xPH207_cold_rep3_ACTTGA_L005
+					B73xPH207_cold_rep3_ACTTGA_L006
+					B73xPH207_cold_rep3_ACTTGA_L007
+			control		B73xPH207_control_rep1_TGACCA_L005
+					B73xPH207_control_rep1_TGACCA_L006
+					B73xPH207_control_rep1_TGACCA_L007
+					B73xPH207_control_rep2_ACAGTG_L005
+					B73xPH207_control_rep2_ACAGTG_L006
+					B73xPH207_control_rep2_ACAGTG_L007
+					B73xPH207_control_rep3_resubmit_CCGTCC_L005
+					B73xPH207_control_rep3_resubmit_CCGTCC_L006
+					B73xPH207_control_rep3_resubmit_CCGTCC_L007
+			heat		B73xPH207_heat_rep1_GATCAG_L005
+					B73xPH207_heat_rep1_GATCAG_L006
+					B73xPH207_heat_rep1_GATCAG_L007
+					B73xPH207_heat_rep2_TAGCTT_L005
+					B73xPH207_heat_rep2_TAGCTT_L006
+					B73xPH207_heat_rep2_TAGCTT_L007
+					B73xPH207_heat_rep3_resubmit_GTCCGC_L005
+					B73xPH207_heat_rep3_resubmit_GTCCGC_L006
+					B73xPH207_heat_rep3_resubmit_GTCCGC_L007
+		Mo17	cold		Mo17_cold_rep1_resubmit_GTGAAA_L003
+					Mo17_cold_rep2_GATCAG_L004
+					Mo17_cold_rep3_TAGCTT_L004
+			control		Mo17_control_rep1_GCCAAT_L003
+					Mo17_control_rep2_CAGATC_L003
+					Mo17_control_rep3_ACTTGA_L004
+			heat		Mo17_heat_rep1_GGCTAC_L004
+					Mo17_heat_rep2_CTTGTA_L004
+					Mo17_heat_rep3_AGTCAA_L004
+		PH207	cold		PH207_cold_rep1_resubmit_GTGGCC_L003
+					PH207_cold_rep2_resubmit_GTTTCG_L004
+					PH207_cold_rep3_resubmit_CGTACG_L004
+			control		PH207_control_rep1_AGTTCC_L004
+					PH207_control_rep2_ATGTCA_L004
+					PH207_control_rep3_CCGTCC_L004
+			heat		PH207_heat_rep1_GTCCGC_L004
+					PH207_heat_rep2_GTGAAA_L004
+					PH207_heat_rep3_GTGGCC_L004

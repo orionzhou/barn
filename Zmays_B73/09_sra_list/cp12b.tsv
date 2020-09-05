@@ -1,0 +1,5 @@
+SampleID	Tissue	Genotype	Treatment	group	antibody	control	Replicate	MergeID	paired	spots	avgLength
+SRR504830	pericarp	rr		P1	P1	ww	1	m1	FALSE	5481441	51
+SRR504831	pericarp	ww		ww			1	m2	FALSE	3622258	51
+SRR504832	pericarp	rr		P1	P1	ww	2	m1	FALSE	3258321	75
+SRR504833	pericarp	ww		ww			2	m2	FALSE	4767822	75

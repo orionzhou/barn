@@ -1,0 +1,9 @@
+SampleID	Tissue	Genotype	Treatment	Replicate	directory	file_prefix
+BN1	leaf	B73	control	1	/home/springer/data_release/umgc/novaseq/191230_A00223_0294_BHGH7NDRXX/Springer_Project_067	BN1A_S1
+BN2		B73	control	2		BN2A_S2
+MN1		Mo17	control	1		MN1A_S3
+MN2		Mo17	control	2		MN2A_S4
+ON1		Oh43	control	1		ON1A_S5
+ON2		Oh43	control	2		ON2A_S6
+WN1		W22	control	1		WN1A_S7
+WN2		W22	control	2		WN2A_S8

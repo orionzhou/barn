@@ -1,0 +1,468 @@
+SampleID	Tissue	Genotype	inbred	pa1	pa2	directory	file_prefix
+bm001	Endosperm	B73	TRUE	B73		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.CGATGT
+bm002	Endosperm	B84	TRUE	B84		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.TTAGGC
+bm003	Endosperm	CR1HT	TRUE	CR1HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.TGACCA
+bm004	Endosperm	DKFAPW	TRUE	DKFAPW		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.ACAGTG
+bm005	Endosperm	H99	TRUE	H99		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.GCCAAT
+bm006	Endosperm	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.1.119156.CAGATC
+bm007	Endosperm	LH145	TRUE	LH145		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.GATCAG
+bm008	Endosperm	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.TAGCTT
+bm009	Endosperm	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.GGCTAC
+bm010	Endosperm	LH93	TRUE	LH93		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.CTTGTA
+bm011	Endosperm	Mo17	TRUE	Mo17		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.AGTCAA
+bm012	Endosperm	Mo45	TRUE	Mo45		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.2.119163.AGTTCC
+bm013	Endosperm	MoG	TRUE	MoG		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.ATGTCA
+bm014	Endosperm	NC230	TRUE	NC230		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.CCGTCC
+bm015	Endosperm	NKH8431	TRUE	NKH8431		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.GTAGAG
+bm016	Endosperm	NKS8326	TRUE	NKS8326		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.GTCCGC
+bm017	Endosperm	Ny821	TRUE	Ny821		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.GTGAAA
+bm018	Endosperm	Oh43	TRUE	Oh43		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.3.119170.GTGGCC
+bm019	Endosperm	PH207	TRUE	PH207		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.4.119177.GTTTCG
+bm020	Endosperm	PHB47	TRUE	PHB47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.4.119177.CGTACG
+bm021	Endosperm	PHG29	TRUE	PHG29		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.4.119177.GAGTGG
+bm022	Endosperm	PHG39	TRUE	PHG39		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.4.119177.ACTGAT
+bm023	Endosperm	PHG47	TRUE	PHG47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9047.4.119177.ATGAGC
+bm024	Endosperm	PHG50	TRUE	PHG50		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.ATTCCT
+bm025	Endosperm	PHG72	TRUE	PHG72		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.CAAAAG
+bm026	Endosperm	PHG83	TRUE	PHG83		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.CAACTA
+bm027	Endosperm	PHJ40	TRUE	PHJ40		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.CACCGG
+bm028	Endosperm	PHN11	TRUE	PHN11		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.CACGAT
+bm029	Endosperm	PHW65	TRUE	PHW65		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.1.119395.CACTCA
+bm030	Endosperm	Q381	TRUE	Q381		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CAGGCG
+bm031	Endosperm	W64A	TRUE	W64A		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CATGGC
+bm032	Internode	AS5707	TRUE	AS5707		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CATTTT
+bm033	Internode	B73	TRUE	B73		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CCAACA
+bm034	Internode	B84	TRUE	B84		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CGGAAT
+bm035	Internode	CR1HT	TRUE	CR1HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.2.119402.CTAGCT
+bm036	Internode	DKFAPW	TRUE	DKFAPW		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.CTATAC
+bm037	Internode	DKHBA1	TRUE	DKHBA1		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.CTCAGA
+bm038	Internode	H99	TRUE	H99		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.GACGAC
+bm039	Internode	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.TAATCG
+bm040	Internode	LH145	TRUE	LH145		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.TACAGC
+bm041	Internode	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.3.119409.TATAAT
+bm042	Internode	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.TCATTC
+bm043	Internode	LH93	TRUE	LH93		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.TCCCGA
+bm044	Internode	Mo17	TRUE	Mo17		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.TCGAAG
+bm045	Internode	Mo45	TRUE	Mo45		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.TCGGCA
+bm046	Internode	MoG	TRUE	MoG		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.AAACAT
+bm047	Internode	NC230	TRUE	NC230		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.4.119416.AAAGCA
+bm048	Internode	NKH8431	TRUE	NKH8431		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AAATGC
+bm049	Internode	NKS8326	TRUE	NKS8326		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AACAAA
+bm050	Internode	Ny821	TRUE	Ny821		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AACTTG
+bm051	Internode	Oh43	TRUE	Oh43		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AAGACT
+bm052	Internode	PH207	TRUE	PH207		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AAGCGA
+bm053	Internode	PHB47	TRUE	PHB47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.5.119423.AAGGAC
+bm054	Internode	PHG29	TRUE	PHG29		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.AATAGG
+bm055	Internode	PHG35	TRUE	PHG35		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.ACAAAC
+bm056	Internode	PHG39	TRUE	PHG39		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.ACATCT
+bm057	Internode	PHG47	TRUE	PHG47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.ACCCAG
+bm058	Internode	PHG50	TRUE	PHG50		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.ACCGGC
+bm059	Internode	PHG72	TRUE	PHG72		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.6.119430.ACGATA
+bm060	Internode	PHG83	TRUE	PHG83		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.ACTCTC
+bm061	Internode	PHJ40	TRUE	PHJ40		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.AGAAGA
+bm062	Internode	PHN11	TRUE	PHN11		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.AGATAG
+bm063	Internode	PHW65	TRUE	PHW65		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.AGCATC
+bm064	Internode	Q381	TRUE	Q381		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.AGCGCT
+bm065	Internode	W64A	TRUE	W64A		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.7.119437.AGGCCG
+bm066	Leaf	AS5707	TRUE	AS5707		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.ATACGG
+bm067	Leaf	B73	TRUE	B73		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.ATCCTA
+bm068	Leaf	B84	TRUE	B84		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.ATCTAT
+bm069	Leaf	CR1HT	TRUE	CR1HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.CCACGC
+bm070	Leaf	DKFAPW	TRUE	DKFAPW		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.CCCATG
+bm071	Leaf	DKHBA1	TRUE	DKHBA1		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9052.8.119444.CCGCAA
+bm072	Leaf	H99	TRUE	H99		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.CCTTAG
+bm073	Leaf	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.CGAGAA
+bm074	Leaf	LH145	TRUE	LH145		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.CTGCTG
+bm075	Leaf	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.GAAACC
+bm076	Leaf	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.GAATAA
+bm077	Leaf	LH93	TRUE	LH93		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9053.1.119374.GACGGA
+bm078	Leaf	Mo17	TRUE	Mo17		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.1.121341.GATATA
+bm079	Leaf	Mo45	TRUE	Mo45		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.1.121341.GATGCT
+bm080	Leaf	MoG	TRUE	MoG		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.1.121341.GCAAGG
+bm081	Leaf	NC230	TRUE	NC230		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.1.121341.GCACTT
+bm082	Leaf	NKH8431	TRUE	NKH8431		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.1.121341.GCCTTA
+bm083	Leaf	NKS8326	TRUE	NKS8326		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.2.121347.GCTCCA
+bm084	Leaf	Ny821	TRUE	Ny821		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.2.121347.GGCACA
+bm085	Leaf	Oh43	TRUE	Oh43		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.2.121347.GGCCTG
+bm086	Leaf	PH207	TRUE	PH207		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.2.121347.TGAATG
+bm087	Leaf	PHB47	TRUE	PHB47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.2.121347.TGCCAT
+bm088	Leaf	PHG29	TRUE	PHG29		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.3.121353.TGCTGG
+bm089	Leaf	PHG35	TRUE	PHG35		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.3.121353.TGGCGC
+bm090	Leaf	PHG39	TRUE	PHG39		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.3.121353.TTCGAA
+bm091	Leaf	PHG47	TRUE	PHG47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	9078.3.121353.TTCTCC
+bm092	Leaf	PHG50	TRUE	PHG50		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.CGATGT
+bm093	Leaf	PHG72	TRUE	PHG72		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.TTAGGC
+bm094	Leaf	PHG83	TRUE	PHG83		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.TGACCA
+bm095	Leaf	PHJ40	TRUE	PHJ40		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.ACAGTG
+bm096	Leaf	PHN11	TRUE	PHN11		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.GCCAAT
+bm097	Leaf	PHW65	TRUE	PHW65		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.1.116499.CAGATC
+bm098	Leaf	Q381	TRUE	Q381		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.GATCAG
+bm099	Leaf	W64A	TRUE	W64A		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.TAGCTT
+bm100	Shoot	AS5707	TRUE	AS5707		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.GGCTAC
+bm101	Shoot	B73	TRUE	B73		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.CTTGTA
+bm102	Shoot	B84	TRUE	B84		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.AGTCAA
+bm103	Shoot	CR1HT	TRUE	CR1HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.2.116506.AGTTCC
+bm104	Shoot	DKFAPW	TRUE	DKFAPW		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.ATGTCA
+bm105	Shoot	DKHBA1	TRUE	DKHBA1		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.CCGTCC
+bm106	Shoot	H99	TRUE	H99		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.GTAGAG
+bm107	Shoot	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.GTCCGC
+bm108	Shoot	LH145	TRUE	LH145		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.GTGAAA
+bm109	Shoot	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.3.116513.GTGGCC
+bm110	Shoot	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.GTTTCG
+bm111	Shoot	LH93	TRUE	LH93		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.CGTACG
+bm112	Shoot	Mo17	TRUE	Mo17		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.GAGTGG
+bm113	Shoot	Mo44	TRUE	Mo44		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.GGTAGC
+bm114	Shoot	Mo45	TRUE	Mo45		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.ACTGAT
+bm115	Shoot	MoG	TRUE	MoG		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.4.116520.ATGAGC
+bm116	Shoot	NC230	TRUE	NC230		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.ATTCCT
+bm117	Shoot	NKH8431	TRUE	NKH8431		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.CAAAAG
+bm118	Shoot	NKS8326	TRUE	NKS8326		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.CAACTA
+bm119	Shoot	Ny821	TRUE	Ny821		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.CACCGG
+bm120	Shoot	Oh43	TRUE	Oh43		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.CACGAT
+bm121	Shoot	PH207	TRUE	PH207		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.5.116527.CACTCA
+bm122	Shoot	PHB47	TRUE	PHB47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CAGGCG
+bm123	Shoot	PHG29	TRUE	PHG29		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CATGGC
+bm124	Shoot	PHG35	TRUE	PHG35		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CATTTT
+bm125	Shoot	PHG39	TRUE	PHG39		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CCAACA
+bm126	Shoot	PHG47	TRUE	PHG47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CGGAAT
+bm127	Shoot	PHG50	TRUE	PHG50		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.6.116534.CTAGCT
+bm128	Shoot	PHG72	TRUE	PHG72		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.CTATAC
+bm129	Shoot	PHG83	TRUE	PHG83		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.CTCAGA
+bm130	Shoot	PHJ40	TRUE	PHJ40		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.GACGAC
+bm131	Shoot	PHN11	TRUE	PHN11		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.TAATCG
+bm132	Shoot	PHW65	TRUE	PHW65		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.TACAGC
+bm133	Shoot	Q381	TRUE	Q381		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.7.116541.TATAAT
+bm134	Shoot	W64A	TRUE	W64A		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.TCATTC
+bm135	Root	AS5707	TRUE	AS5707		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.TCCCGA
+bm136	Root	B73	TRUE	B73		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.TCGAAG
+bm137	Root	B84	TRUE	B84		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.TCGGCA
+bm138	Root	CR1HT	TRUE	CR1HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.AAACAT
+bm139	Root	DKFAPW	TRUE	DKFAPW		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8937.8.116548.AAAGCA
+bm140	Root	DKHBA1	TRUE	DKHBA1		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AAATGC
+bm141	Root	H99	TRUE	H99		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AACAAA
+bm142	Root	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AACTTG
+bm143	Root	LH145	TRUE	LH145		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AAGACT
+bm144	Root	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AAGCGA
+bm145	Root	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.2.115483.AAGGAC
+bm146	Root	LH93	TRUE	LH93		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.AATAGG
+bm147	Root	Mo17	TRUE	Mo17		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.ACAAAC
+bm148	Root	Mo44	TRUE	Mo44		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.ACATCT
+bm149	Root	Mo45	TRUE	Mo45		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.ACCCAG
+bm150	Root	MoG	TRUE	MoG		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.ACCGGC
+bm151	Root	NC230	TRUE	NC230		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.3.115490.ACGATA
+bm152	Root	NKH8431	TRUE	NKH8431		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.ACTCTC
+bm153	Root	NKS8326	TRUE	NKS8326		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.AGAAGA
+bm154	Root	Ny821	TRUE	Ny821		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.AGATAG
+bm155	Root	Oh43	TRUE	Oh43		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.AGCATC
+bm156	Root	PH207	TRUE	PH207		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.AGCGCT
+bm157	Root	PHB47	TRUE	PHB47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.4.115497.AGGCCG
+bm158	Root	PHG29	TRUE	PHG29		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.ATACGG
+bm159	Root	PHG35	TRUE	PHG35		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.ATCCTA
+bm160	Root	PHG39	TRUE	PHG39		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.ATCTAT
+bm161	Root	PHG47	TRUE	PHG47		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.CCACGC
+bm162	Root	PHG50	TRUE	PHG50		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.CCCATG
+bm163	Root	PHG72	TRUE	PHG72		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.5.115504.CCGCAA
+bm164	Root	PHG83	TRUE	PHG83		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.CCTTAG
+bm165	Root	PHJ40	TRUE	PHJ40		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.CGAGAA
+bm166	Root	PHN11	TRUE	PHN11		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.CTGCTG
+bm167	Root	PHW65	TRUE	PHW65		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.GAAACC
+bm168	Root	Q381	TRUE	Q381		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.GAATAA
+bm169	Root	W64A	TRUE	W64A		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.6.115511.GACGGA
+bm170	Shoot	LH123HT	TRUE	LH123HT		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.7.115518.GATATA
+bm171	Endosperm	PHG35	TRUE	PHG35		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.7.115518.GATGCT
+bm172	Leaf	AS5707	TRUE	AS5707		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.7.115518.GCAAGG
+bm173	Shoot	LH85	TRUE	LH85		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.7.115518.GCACTT
+bm174	Internode	LH156	TRUE	LH156		/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.170615.ZeamayEProfiling_3	8911.7.115518.GCCTTA
+bm175	Endosperm	LH145xMo17	FALSE	LH145	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.1.124868.CGATGT
+bm176	Endosperm	LH145xMo17	FALSE	LH145	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.2.124874.TTAGGC
+bm177	Endosperm	LH156xB73	FALSE	LH156	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.1.124868.TGACCA
+bm178	Endosperm	LH156xB73	FALSE	LH156	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.1.124868.ACAGTG
+bm179	Endosperm	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.1.124868.GCCAAT
+bm180	Endosperm	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.1.124868.CAGATC
+bm181	Endosperm	NC230xB73	FALSE	NC230	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.GATCAG
+bm182	Endosperm	NC230xB73	FALSE	NC230	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.TAGCTT
+bm183	Endosperm	Q381xB73	FALSE	Q381	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.GGCTAC
+bm184	Endosperm	Q381xB73	FALSE	Q381	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.2.124874.CTTGTA
+bm185	Internode	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.AGTCAA
+bm186	Internode	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.AGTTCC
+bm187	Leaf	Mo17xPHG29	FALSE	Mo17	PHG29	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.3.124881.ATGTCA
+bm188	Leaf	Mo17xPHG29	FALSE	Mo17	PHG29	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.CCGTCC
+bm189	Leaf	Mo44xMo17	FALSE	Mo44	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.GTAGAG
+bm190	Leaf	Mo44xMo17	FALSE	Mo44	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.GTCCGC
+bm191	Leaf	PHG47xB73	FALSE	PHG47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.GTGAAA
+bm192	Leaf	PHG47xB73	FALSE	PHG47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.GTGGCC
+bm193	Leaf	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.4.124888.GTTTCG
+bm194	Leaf	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.2.124874.CGTACG
+bm195	Leaf	W64AxMo17	FALSE	W64A	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.GAGTGG
+bm196	Leaf	W64AxMo17	FALSE	W64A	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.GGTAGC
+bm197	Root	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.ACTGAT
+bm198	Root	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.ATGAGC
+bm199	Endosperm	B73xMo17	FALSE	B73	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.ATTCCT
+bm200	Endosperm	B84xMo17	FALSE	B84	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.5.124895.CAAAAG
+bm201	Endosperm	B84xPH207	FALSE	B84	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CAACTA
+bm202	Endosperm	CR1HTxB73	FALSE	CR1HT	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CACCGG
+bm203	Endosperm	CR1HTxMo17	FALSE	CR1HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.2.124874.CACGAT
+bm204	Endosperm	CR1HTxPH207	FALSE	CR1HT	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CACTCA
+bm205	Endosperm	DKFAPWxB73	FALSE	DKFAPW	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CAGGCG
+bm206	Endosperm	DKFAPWxMo17	FALSE	DKFAPW	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CATGGC
+bm207	Endosperm	H99xB73	FALSE	H99	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.6.124902.CATTTT
+bm208	Endosperm	H99xMo17	FALSE	H99	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.CCAACA
+bm209	Endosperm	H99xPH207	FALSE	H99	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.CGGAAT
+bm210	Endosperm	LH123HTxB73	FALSE	LH123HT	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.CTAGCT
+bm211	Endosperm	LH123HTxPH207	FALSE	LH123HT	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.CTATAC
+bm212	Endosperm	LH145xB73	FALSE	LH145	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.CTCAGA
+bm213	Endosperm	LH145xPH207	FALSE	LH145	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.7.124909.GACGAC
+bm214	Endosperm	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TAATCG
+bm215	Endosperm	LH85xB73	FALSE	LH85	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TACAGC
+bm216	Endosperm	LH85xMo17	FALSE	LH85	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TATAAT
+bm217	Endosperm	LH85xPH207	FALSE	LH85	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TCATTC
+bm218	Endosperm	LH93xB73	FALSE	LH93	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TCCCGA
+bm219	Endosperm	LH93xMo17	FALSE	LH93	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9192.2.124874.TCGAAG
+bm220	Endosperm	LH93xPH207	FALSE	LH93	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.1.125646.TCGGCA
+bm221	Endosperm	Mo45xB73	FALSE	Mo45	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AAACAT
+bm222	Endosperm	Mo45xPH207	FALSE	Mo45	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AAAGCA
+bm223	Endosperm	NC230xMo17	FALSE	NC230	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AAATGC
+bm224	Endosperm	NKH8431xMo17	FALSE	NKH8431	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AACAAA
+bm225	Endosperm	NKH8431xPH207	FALSE	NKH8431	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AACTTG
+bm226	Endosperm	NKS8326xB73	FALSE	NKS8326	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.2.125653.AAGACT
+bm227	Endosperm	NKS8326xMo17	FALSE	NKS8326	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.AAGCGA
+bm228	Endosperm	NKS8326xPH207	FALSE	NKS8326	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.AAGGAC
+bm229	Endosperm	Ny821xB73	FALSE	Ny821	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.AATAGG
+bm230	Endosperm	Ny821xPH207	FALSE	Ny821	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.ACAAAC
+bm231	Endosperm	Oh43xPH207	FALSE	Oh43	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.ACATCT
+bm232	Endosperm	PH207xB73	FALSE	PH207	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.3.125660.ACCCAG
+bm233	Endosperm	PH207xMo17	FALSE	PH207	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.ACCGGC
+bm234	Endosperm	PHB47xB73	FALSE	PHB47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.ACGATA
+bm235	Endosperm	PHB47xMo17	FALSE	PHB47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.ACTCTC
+bm236	Endosperm	PHB47xPH207	FALSE	PHB47	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.AGAAGA
+bm237	Endosperm	PHG29xB73	FALSE	PHG29	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.AGATAG
+bm238	Endosperm	PHG29xMo17	FALSE	PHG29	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.4.125667.AGCATC
+bm239	Endosperm	PHG29xPH207	FALSE	PHG29	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.AGCGCT
+bm240	Endosperm	PHG35xMo17	FALSE	PHG35	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.AGGCCG
+bm241	Endosperm	PHG35xPH207	FALSE	PHG35	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.ATACGG
+bm242	Endosperm	PHG39xB73	FALSE	PHG39	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.ATCCTA
+bm243	Endosperm	PHG39xMo17	FALSE	PHG39	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.ATCTAT
+bm244	Endosperm	PHG47xB73	FALSE	PHG47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.5.125674.CCACGC
+bm245	Endosperm	PHG47xMo17	FALSE	PHG47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.CCCATG
+bm246	Endosperm	PHG47xPH207	FALSE	PHG47	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.CCGCAA
+bm247	Endosperm	PHG50xPH207	FALSE	PHG50	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.CCTTAG
+bm248	Endosperm	PHG72xB73	FALSE	PHG72	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.CGAGAA
+bm249	Endosperm	PHG72xMo17	FALSE	PHG72	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.CTGCTG
+bm250	Endosperm	PHG72xPH207	FALSE	PHG72	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.6.125681.GAAACC
+bm251	Endosperm	PHG83xB73	FALSE	PHG83	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GAATAA
+bm252	Endosperm	PHG83xPH207	FALSE	PHG83	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GACGGA
+bm253	Endosperm	PHJ40xPH207	FALSE	PHJ40	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GATATA
+bm254	Endosperm	PHN11xB73	FALSE	PHN11	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GATGCT
+bm255	Endosperm	PHN11xPH207	FALSE	PHN11	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GCAAGG
+bm256	Endosperm	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.7.125688.GCACTT
+bm257	Endosperm	PHW65xMo17	FALSE	PHW65	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.8.125695.GCCTTA
+bm258	Endosperm	PHW65xPH207	FALSE	PHW65	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.8.125695.GCTCCA
+bm259	Endosperm	Q381xMo17	FALSE	Q381	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.8.125695.GGCACA
+bm260	Endosperm	Q381xPH207	FALSE	Q381	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.8.125695.GGCCTG
+bm261	Endosperm	W64AxPH207	FALSE	W64A	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9222.8.125695.TGAATG
+bm262	Leaf	B84xB73	FALSE	B84	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.CGATGT
+bm263	Leaf	B84xMo17	FALSE	B84	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.TTAGGC
+bm264	Leaf	DKFAPWxB73	FALSE	DKFAPW	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.TGACCA
+bm265	Leaf	DKFAPWxMo17	FALSE	DKFAPW	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.ACAGTG
+bm266	Leaf	H99xB73	FALSE	H99	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.GCCAAT
+bm267	Leaf	H99xMo17	FALSE	H99	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.2.124055.CAGATC
+bm268	Leaf	LH123HTxB73	FALSE	LH123HT	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.GATCAG
+bm269	Leaf	LH123HTxMo17	FALSE	LH123HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.TAGCTT
+bm270	Leaf	LH145xB73	FALSE	LH145	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.GGCTAC
+bm271	Leaf	LH156xB73	FALSE	LH156	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.CTTGTA
+bm272	Leaf	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.AGTCAA
+bm273	Leaf	LH85xB73	FALSE	LH85	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.3.124062.AGTTCC
+bm274	Leaf	LH93xB73	FALSE	LH93	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.ATGTCA
+bm275	Leaf	LH93xMo17	FALSE	LH93	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.CCGTCC
+bm276	Leaf	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.GTAGAG
+bm277	Leaf	Mo17xOh43	FALSE	Mo17	Oh43	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.GTCCGC
+bm278	Leaf	Mo17xPH207	FALSE	Mo17	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.GTGAAA
+bm279	Leaf	Mo44xB73	FALSE	Mo44	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.4.124069.GTGGCC
+bm280	Leaf	Mo45xB73	FALSE	Mo45	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.GTTTCG
+bm281	Leaf	Mo45xMo17	FALSE	Mo45	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.CGTACG
+bm282	Leaf	MoGxB73	FALSE	MoG	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.GAGTGG
+bm283	Leaf	MoGxMo17	FALSE	MoG	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.GGTAGC
+bm284	Leaf	NKH8431xB73	FALSE	NKH8431	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.6.124083.ACTGAT
+bm285	Leaf	NKS8326xB73	FALSE	NKS8326	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.6.124083.ATGAGC
+bm286	Leaf	NKS8326xMo17	FALSE	NKS8326	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.6.124083.ATTCCT
+bm287	Leaf	Oh43xB73	FALSE	Oh43	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.6.124083.CAAAAG
+bm288	Leaf	PH207xB73	FALSE	PH207	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.7.124088.CAACTA
+bm289	Leaf	PHB47xB73	FALSE	PHB47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.7.124088.CACCGG
+bm290	Leaf	PHB47xMo17	FALSE	PHB47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.7.124088.CACGAT
+bm291	Leaf	PHG29xB73	FALSE	PHG29	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.7.124088.CACTCA
+bm292	Leaf	PHG35xB73	FALSE	PHG35	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.CAGGCG
+bm293	Leaf	PHG35xMo17	FALSE	PHG35	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.5.124076.CATGGC
+bm294	Leaf	PHG39xB73	FALSE	PHG39	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CATTTT
+bm295	Leaf	PHG39xMo17	FALSE	PHG39	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CCAACA
+bm296	Leaf	PHG47xMo17	FALSE	PHG47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CGGAAT
+bm297	Leaf	PHG50xB73	FALSE	PHG50	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CTAGCT
+bm298	Leaf	PHG50xMo17	FALSE	PHG50	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CTATAC
+bm299	Leaf	PHG72xB73	FALSE	PHG72	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.8.124093.CTCAGA
+bm300	Leaf	PHJ40xB73	FALSE	PHJ40	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.GACGAC
+bm301	Leaf	PHJ40xMo17	FALSE	PHJ40	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.TAATCG
+bm302	Leaf	PHN11xB73	FALSE	PHN11	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.TACAGC
+bm303	Leaf	PHN11xMo17	FALSE	PHN11	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.TATAAT
+bm304	Leaf	PHW65xMo17	FALSE	PHW65	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.TCATTC
+bm305	Leaf	Q381xB73	FALSE	Q381	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.1.124100.TCCCGA
+bm306	Leaf	W64AxMo17XB73	FALSE	W64A	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.TCGAAG
+bm307	Root	B84xB73	FALSE	B84	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.TCGGCA
+bm308	Root	B84xMo17	FALSE	B84	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.AAACAT
+bm309	Root	DKFAPWxB73	FALSE	DKFAPW	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.AAAGCA
+bm310	Root	DKFAPWxMo17	FALSE	DKFAPW	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.AAATGC
+bm311	Root	H99xB73	FALSE	H99	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.2.124107.AACAAA
+bm312	Root	H99xMo17	FALSE	H99	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.AACTTG
+bm313	Root	LH123HTxB73	FALSE	LH123HT	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.AAGACT
+bm314	Root	LH123HTxMo17	FALSE	LH123HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.AAGCGA
+bm315	Root	LH145xB73	FALSE	LH145	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.AAGGAC
+bm316	Root	LH156xB73	FALSE	LH156	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.AATAGG
+bm317	Root	LH85xB73	FALSE	LH85	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.3.124114.ACAAAC
+bm318	Root	LH93xB73	FALSE	LH93	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.ACATCT
+bm319	Root	LH93xMo17	FALSE	LH93	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.ACCCAG
+bm320	Root	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.ACCGGC
+bm321	Root	Mo17xOh43	FALSE	Mo17	Oh43	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.ACGATA
+bm322	Root	Mo17xPH207	FALSE	Mo17	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.ACTCTC
+bm323	Root	Mo17xPHG29	FALSE	Mo17	PHG29	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.4.124121.AGAAGA
+bm324	Root	Mo44xB73	FALSE	Mo44	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.AGATAG
+bm325	Root	Mo44xMo17	FALSE	Mo44	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.AGCATC
+bm326	Root	Mo45xB73	FALSE	Mo45	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.AGCGCT
+bm327	Root	Mo45xMo17	FALSE	Mo45	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.AGGCCG
+bm328	Root	MoGxB73	FALSE	MoG	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.ATACGG
+bm329	Root	MoGxMo17	FALSE	MoG	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.5.124128.ATCCTA
+bm330	Root	NKH8431xB73	FALSE	NKH8431	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.ATCTAT
+bm331	Root	NKS8326xB73	FALSE	NKS8326	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.CCACGC
+bm332	Root	NKS8326xMo17	FALSE	NKS8326	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.CCCATG
+bm333	Root	Oh43xB73	FALSE	Oh43	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.CCGCAA
+bm334	Root	PH207xB73	FALSE	PH207	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.CCTTAG
+bm335	Root	PHB47xB73	FALSE	PHB47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.6.124135.CGAGAA
+bm336	Root	PHB47xMo17	FALSE	PHB47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.CTGCTG
+bm337	Root	PHG29xB73	FALSE	PHG29	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.GAAACC
+bm338	Root	PHG35xB73	FALSE	PHG35	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.GAATAA
+bm339	Root	PHG35xMo17	FALSE	PHG35	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.GACGGA
+bm340	Root	PHG39xB73	FALSE	PHG39	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.GATATA
+bm341	Root	PHG39xMo17	FALSE	PHG39	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.7.124142.GATGCT
+bm342	Root	PHG47xB73	FALSE	PHG47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GCAAGG
+bm343	Root	PHG50xB73	FALSE	PHG50	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GCACTT
+bm344	Root	PHG50xMo17	FALSE	PHG50	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GCCTTA
+bm345	Root	PHG72xB73	FALSE	PHG72	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GCTCCA
+bm346	Root	PHJ40xB73	FALSE	PHJ40	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GGCACA
+bm347	Root	PHJ40xMo17	FALSE	PHJ40	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9162.8.124149.GGCCTG
+bm348	Root	PHN11xB73	FALSE	PHN11	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TGAATG
+bm349	Root	PHN11xMo17	FALSE	PHN11	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TGCCAT
+bm350	Root	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TGCTGG
+bm351	Root	PHW65xMo17	FALSE	PHW65	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TGGCGC
+bm352	Root	Q381xB73	FALSE	Q381	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TTCGAA
+bm353	Root	W64AxB73	FALSE	W64A	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9179.7.124642.TTCTCC
+bm354	Root	W64AxMo17	FALSE	W64A	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.CGATGT
+bm355	Shoot	DKFAPWxB73	FALSE	DKFAPW	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.TTAGGC
+bm356	Shoot	H99xB73	FALSE	H99	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.TGACCA
+bm357	Shoot	LH123HTxMo17	FALSE	LH123HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.ACAGTG
+bm358	Shoot	LH156xB73	FALSE	LH156	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.GCCAAT
+bm359	Shoot	Mo17xOh43	FALSE	Mo17	Oh43	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.1.125111.CAGATC
+bm360	Shoot	Mo17xPHG29	FALSE	Mo17	PHG29	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.GATCAG
+bm361	Shoot	Mo44xMo17	FALSE	Mo44	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.TAGCTT
+bm362	Shoot	MoGxMo17	FALSE	MoG	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.GGCTAC
+bm363	Shoot	PHB47xMo17	FALSE	PHB47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.CTTGTA
+bm364	Shoot	PHG35xMo17	FALSE	PHG35	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.AGTCAA
+bm365	Shoot	PHG39xMo17	FALSE	PHG39	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.2.125118.AGTTCC
+bm366	Shoot	PHG50xB73	FALSE	PHG50	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.ATGTCA
+bm367	Shoot	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.CCGTCC
+bm368	Shoot	PHW65xMo17	FALSE	PHW65	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.GTAGAG
+bm369	Shoot	Q381xB73	FALSE	Q381	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.GTCCGC
+bm370	Shoot	W64AxMo17	FALSE	W64A	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.GTGAAA
+bm371	Endosperm	B73xPH207	FALSE	B73	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.3.125125.GTGGCC
+bm372	Endosperm	NC230xPH207	FALSE	NC230	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.GTTTCG
+bm373	Internode	Mo45xMo17	FALSE	Mo45	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.CGTACG
+bm374	Shoot	NKS8326xMo17	FALSE	NKS8326	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.GAGTGG
+bm375	Shoot	PHJ40xB73	FALSE	PHJ40	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.GGTAGC
+bm376	Endosperm	MoGxB73	FALSE	MoG	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.ACTGAT
+bm377	Endosperm	PHG39xPH207	FALSE	PHG39	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.4.125132.ATGAGC
+bm378	Internode	LH85xB73	FALSE	LH85	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.ATTCCT
+bm379	Shoot	PHG50xMo17	FALSE	PHG50	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.CAAAAG
+bm380	Endosperm	Mo45xMo17	FALSE	Mo45	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.CAACTA
+bm381	Endosperm	B84xB73	FALSE	B84	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.CACCGG
+bm382	Endosperm	DKFAPWxPH207	FALSE	DKFAPW	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.CACGAT
+bm383	Endosperm	LH123HTxMo17	FALSE	LH123HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.5.125139.CACTCA
+bm384	Endosperm	Mo17xPH207	FALSE	Mo17	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CAGGCG
+bm385	Endosperm	MoGxMo17	FALSE	MoG	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CATGGC
+bm386	Endosperm	Ny821xMo17	FALSE	Ny821	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CATTTT
+bm387	Endosperm	Oh43xB73	FALSE	Oh43	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CCAACA
+bm388	Endosperm	Oh43xMo17	FALSE	Oh43	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CGGAAT
+bm389	Endosperm	PHG35xB73	FALSE	PHG35	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.6.125146.CTAGCT
+bm390	Endosperm	PHG50xB73	FALSE	PHG50	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.CTATAC
+bm391	Endosperm	PHG50xMo17	FALSE	PHG50	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.CTCAGA
+bm392	Endosperm	PHG83xMo17	FALSE	PHG83	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.GACGAC
+bm393	Endosperm	PHJ40xB73	FALSE	PHJ40	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.TAATCG
+bm394	Endosperm	PHJ40xMo17	FALSE	PHJ40	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.TACAGC
+bm395	Endosperm	W64AxB73	FALSE	W64A	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9200.7.125153.TATAAT
+bm396	Endosperm	W64AxMo17	FALSE	W64A	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.TCATTC
+bm397	Internode	B84xB73	FALSE	B84	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.TCCCGA
+bm398	Internode	B84xMo17	FALSE	B84	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.TCGAAG
+bm399	Internode	DKFAPWxB73	FALSE	DKFAPW	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.TCGGCA
+bm400	Internode	DKFAPWxMo17	FALSE	DKFAPW	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.AAACAT
+bm401	Internode	H99xMo17	FALSE	H99	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.1.124707.AAAGCA
+bm402	Internode	LH123HTxMo17	FALSE	LH123HT	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AAATGC
+bm403	Internode	LH145xB73	FALSE	LH145	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AACAAA
+bm404	Internode	LH93xB73	FALSE	LH93	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AACTTG
+bm405	Internode	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AAGACT
+bm406	Internode	Mo17xPH207	FALSE	Mo17	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AAGCGA
+bm407	Internode	Mo17xPHG29	FALSE	Mo17	PHG29	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.2.124714.AAGGAC
+bm408	Internode	Mo44xMo17	FALSE	Mo44	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.AATAGG
+bm409	Internode	Mo45xB73	FALSE	Mo45	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.ACAAAC
+bm410	Internode	MoGxB73	FALSE	MoG	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.ACATCT
+bm411	Internode	MoGxMo17	FALSE	MoG	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.ACCCAG
+bm412	Internode	NKH8431xB73	FALSE	NKH8431	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.ACCGGC
+bm413	Internode	NKS8326xB73	FALSE	NKS8326	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.3.124721.ACGATA
+bm414	Internode	NKS8326xMo17	FALSE	NKS8326	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.ACTCTC
+bm415	Internode	Oh43xB73	FALSE	Oh43	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.AGAAGA
+bm416	Internode	PHB47xB73	FALSE	PHB47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.AGATAG
+bm417	Internode	PHB47xMo17	FALSE	PHB47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.AGCATC
+bm418	Internode	PHG29xB73	FALSE	PHG29	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.AGCGCT
+bm419	Internode	PHG35xB73	FALSE	PHG35	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.4.124728.AGGCCG
+bm420	Internode	PHG35xMo17	FALSE	PHG35	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.5.124735.ATACGG
+bm421	Internode	PHG39xB73	FALSE	PHG39	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.5.124735.ATCCTA
+bm422	Internode	PHG47xB73	FALSE	PHG47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.5.124735.ATCTAT
+bm423	Internode	PHG47xMo17	FALSE	PHG47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.5.124735.CCACGC
+bm424	Internode	PHG50xB73	FALSE	PHG50	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.5.124735.CCCATG
+bm425	Internode	PHG72xB73	FALSE	PHG72	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.6.124741.CCGCAA
+bm426	Internode	PHJ40xB73	FALSE	PHJ40	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.6.124741.CCTTAG
+bm427	Internode	PHJ40xMo17	FALSE	PHJ40	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.6.124741.CGAGAA
+bm428	Internode	PHN11xB73	FALSE	PHN11	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.6.124741.CTGCTG
+bm429	Internode	PHW65xB73	FALSE	PHW65	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.6.124741.GAAACC
+bm430	Internode	PHW65xMo17	FALSE	PHW65	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.7.124747.GAATAA
+bm431	Root	PHG47xMo17	FALSE	PHG47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.7.124747.GATATA
+bm432	Shoot	B84xB73	FALSE	B84	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.7.124747.GATGCT
+bm433	Shoot	DKFAPWxMo17	FALSE	DKFAPW	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.7.124747.GCAAGG
+bm434	Shoot	H99xMo17	FALSE	H99	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.7.124747.GCACTT
+bm435	Shoot	LH123HTxB73	FALSE	LH123HT	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.8.124753.GCCTTA
+bm436	Shoot	LH145xB73	FALSE	LH145	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.8.124753.GCTCCA
+bm437	Shoot	LH156xMo17	FALSE	LH156	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.8.124753.GGCACA
+bm438	Shoot	LH85xB73	FALSE	LH85	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.8.124753.GGCCTG
+bm439	Shoot	LH93xB73	FALSE	LH93	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.1.124049.TTCTCC
+bm440	Shoot	LH93xMo17	FALSE	LH93	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.1.124049.TTCGAA
+bm441	Shoot	Mo17xB73	FALSE	Mo17	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.1.124049.TGGCGC
+bm442	Shoot	Mo17xPH207	FALSE	Mo17	PH207	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.1.124049.TGCTGG
+bm443	Shoot	Mo44xB73	FALSE	Mo44	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9163.1.124049.TGCCAT
+bm444	Shoot	Mo45xB73	FALSE	Mo45	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9172.8.124753.TGAATG
+bm445	Shoot	Mo45xMo17	FALSE	Mo45	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.CCGCAA
+bm446	Shoot	MoGxB73	FALSE	MoG	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.CCTTAG
+bm447	Shoot	NKH8431xB73	FALSE	NKH8431	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.CGAGAA
+bm448	Shoot	NKS8326xB73	FALSE	NKS8326	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.CTGCTG
+bm449	Shoot	Oh43xB73	FALSE	Oh43	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.GAAACC
+bm450	Shoot	PH207xB73	FALSE	PH207	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.6.126054.GAATAA
+bm451	Shoot	PHB47xB73	FALSE	PHB47	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GATATA
+bm452	Shoot	PHG29xB73	FALSE	PHG29	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GATGCT
+bm453	Shoot	PHG35xB73	FALSE	PHG35	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GCAAGG
+bm454	Shoot	PHG47xMo17	FALSE	PHG47	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GCACTT
+bm455	Shoot	PHG72xB73	FALSE	PHG72	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GCCTTA
+bm456	Shoot	PHJ40xMo17	FALSE	PHJ40	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9239.7.126061.GCTCCA
+bm457	Shoot	PHN11xMo17	FALSE	PHN11	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.GGCACA
+bm458	Shoot	W64AxB73	FALSE	W64A	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.GGCCTG
+bm459	Internode	LH93xMo17	FALSE	LH93	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.TCTACC
+bm460	Internode	Mo44xB73	FALSE	Mo44	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.TGAATG
+bm461	Internode	PH207xB73	FALSE	PH207	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.TGCCAT
+bm462	Internode	PHG39xMo17	FALSE	PHG39	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.2.125917.TGCTGG
+bm463	Internode	PHG50xMo17	FALSE	PHG50	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.3.125924.TGGCGC
+bm464	Shoot	B84xMo17	FALSE	B84	Mo17	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.3.125924.TTCGAA
+bm465	Shoot	PHG39xB73	FALSE	PHG39	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.3.125924.TTCTCC
+bm466	Shoot	PHN11xB73	FALSE	PHN11	B73	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.3.125924.ATCTAT
+bm467	Internode	Mo17xOh43	FALSE	Mo17	Oh43	/home/hirschc1/shared/Archive/reads/biomap/RNAseq/JGI.230715.ZeamayEProfiling_4	9235.3.125924.CCACGC

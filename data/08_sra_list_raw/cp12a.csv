@@ -1,9 +1,0 @@
-srr,srr_alias,srx,paired,spots,spots_with_mate,avgLength,srx_alias,srx_title,srx_design,study_title,sample_alias,lib_layout,lib_name,lib_selection,lib_source,lib_strategy
-SRR518980,GSM957191_r1,SRX158003,FALSE,15000962,0,36,GSM957191_1,GSM957191: ear1-Total input; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957191,,GSM957191: ear1-Total input,ChIP,GENOMIC,ChIP-Seq
-SRR518979,GSM957190_r1,SRX158002,FALSE,15535113,0,36,GSM957190_1,GSM957190: ear1-ChIP; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957190,,GSM957190: ear1-ChIP,ChIP,GENOMIC,ChIP-Seq
-SRR518977,GSM957189_r1,SRX158001,FALSE,1328198,0,36,GSM957189_1,GSM957189: tassel2 and 3-Total input; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957189,,GSM957189: tassel2 and 3-Total input,ChIP,GENOMIC,ChIP-Seq
-SRR518978,GSM957189_r2,SRX158001,FALSE,1217345,0,36,GSM957189_1,GSM957189: tassel2 and 3-Total input; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957189,,GSM957189: tassel2 and 3-Total input,ChIP,GENOMIC,ChIP-Seq
-SRR518975,GSM957188_r1,SRX158000,FALSE,226730,0,36,GSM957188_1,GSM957188: tassel2 and 3-ChIP; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957188,,GSM957188: tassel2 and 3-ChIP,ChIP,GENOMIC,ChIP-Seq
-SRR518976,GSM957188_r2,SRX158000,FALSE,141538,0,36,GSM957188_1,GSM957188: tassel2 and 3-ChIP; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957188,,GSM957188: tassel2 and 3-ChIP,ChIP,GENOMIC,ChIP-Seq
-SRR518974,GSM957187_r1,SRX157999,FALSE,6877364,0,33,GSM957187_1,GSM957187: tassel1-Total input; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957187,,GSM957187: tassel1-Total input,ChIP,GENOMIC,ChIP-Seq
-SRR518973,GSM957186_r1,SRX157998,FALSE,306675,0,33,GSM957186_1,GSM957186: tassel1-ChIP; Zea mays; ChIP-Seq,,Zea mays Epigenomics,GSM957186,,GSM957186: tassel1-ChIP,ChIP,GENOMIC,ChIP-Seq

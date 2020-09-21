@@ -3,6 +3,7 @@ cache
 data2
 pseudo
 logs
+raw_seqs
 
 # data folder
 data/*

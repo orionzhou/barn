@@ -1,9 +1,0 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
-BN1	leaf	B73	control	1	m1	TRUE	72952402	102
-BN2	leaf	B73	control	2	m1	TRUE	91936831	102
-MN1	leaf	Mo17	control	1	m2	TRUE	80582461	102
-MN2	leaf	Mo17	control	2	m2	TRUE	97613213	102
-ON1	leaf	Oh43	control	1	m3	TRUE	65978464	102
-ON2	leaf	Oh43	control	2	m3	TRUE	75446447	102
-WN1	leaf	W22	control	1	m4	TRUE	105370283	102
-WN2	leaf	W22	control	2	m4	TRUE	171559161	102

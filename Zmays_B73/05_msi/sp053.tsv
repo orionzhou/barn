@@ -1,7 +1,0 @@
-SampleID	Tissue	Genotype	directory	file_prefix
-	V2	B73	/home/springer/data_release/umgc/hiseq/170524_D00635_0241_BCB0RCANXX/Springer_Project_053	JN25_BS_S8
-	V2	PH207		JN27_BS_S9
-	root	B73	/home/springer/data_release/umgc/hiseq/170602_D00635_0242_ACB1FBANXX/Springer_Project_053	JN26_BS_S1
-	root	PH207		JN28_BS_S2
-	V2	B73xPH207		JN29_BS_S3
-	root	B73xPH207		JN30_BS_S4

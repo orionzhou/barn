@@ -1,5 +1,0 @@
-SampleID	Tissue	Genotype	Treatment	group	antibody	control	Replicate	MergeID	paired	spots	avgLength
-SRR7153132		wt		O2	O2	o2	1	m1	TRUE	38299434	200
-SRR7153133		wt		O2	O2	o2	2	m1	TRUE	28166278	199
-SRR7153134		o2		o2			1	m2	TRUE	33169368	200
-SRR7153135		o2		o2			2	m2	TRUE	25580850	199

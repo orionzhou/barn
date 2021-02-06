@@ -1,30 +1,36 @@
 source("functions.R")
+
+genome = 'Athaliana'
+genome = 'Zmays_B73'
+genome = 'Osativa'
+diro = glue("{dirp}/{genome}/05_excels/{")
+
+t_cfg = read_projects(genome)
 t_cfg %>% count(libtype,source)
 t_cfg %>% print(n=50)
 rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
+yid = 'bs12a'
+acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
+ti = get_sra_meta(acc, yid)
+#
+fo = glue("{dirw}/tmp.tsv")
+write_tsv(ti, fo)
+
 #{{{ SRA - work on single one
-yid = 'rn20i'
+yid = 'cg18a'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 if(yid == 'rn99a') acc = read_tsv(file.path(dird, 'rn99a_bpid.txt'),col_names=F)$X1
 ti = get_sra_meta(acc, yid)
-fo = sprintf("%s/08_sra_list_raw/%s.csv", dird, yid)
-write_csv(ti, fo)
 
-#{{{ work on random project
-acc = 'PRJNA305809'
-ti = get_sra_meta(acc, '')
-fo = sprintf("%s/tmp.csv", dird)
-write_csv(ti, fo)
-#}}}
+fo = glue("{dirw}/tmp.tsv")
+write_tsv(ti, fo)
 
-yid = 'rn20c'
-fx = sprintf("%s/08_sra_list_x/%s.xlsx", dird, yid)
-tx = read_xlsx(fx)
-tx = complete_sample_list(tx, fillrep=T)
-fo = sprintf("%s/09_sra_list/%s.tsv", dird, yid)
-write_tsv(tx, fo, na = '')
+#tx = read_xlsx(fx)
+#tx = complete_sample_list(tx, fillrep=T)
+#fo = sprintf("%s/09_sra_list/%s.tsv", dird, yid)
+#write_tsv(tx, fo, na = '')
 #}}}
 
 #{{{ SRA- work on many

@@ -1,6 +1,0 @@
-SampleID	Tissue	Genotype	Treatment	Replicate	MergeID	paired	spots	avgLength
-SRR398107	endosperm	B73xMo17		1	m1	FALSE	113211605	100
-SRR398129	endosperm	B73xMo17		2	m1	TRUE	376613046	200
-SRR449549	endosperm	Mo17xB73		1	m2	TRUE	765117016	200
-SRR452280	endosperm	B73		1	m3	TRUE	183466852	200
-SRR452281	endosperm	B73		2	m3	FALSE	164205900	100

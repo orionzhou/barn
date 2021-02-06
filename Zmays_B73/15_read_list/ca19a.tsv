@@ -1,7 +1,0 @@
-SampleID	Tissue	Genotype	Treatment	group	Replicate	MergeID	paired	spots	avgLength
-SRR7889827	leaf			leaf	1	m1	TRUE	95964379	72
-SRR7889828	leaf			leaf	1	m1	TRUE	571321741	72
-SRR7889829	ear			ear	1	m2	TRUE	76811222	72
-SRR7889830	ear			ear	1	m2	TRUE	174903747	72
-SRR7889831	input			input	1	m3	TRUE	112555834	71
-SRR7889832	input			input	2	m3	TRUE	113684140	71

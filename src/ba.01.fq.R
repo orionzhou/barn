@@ -1,9 +1,8 @@
 source("functions.R")
 
-genome = 'Athaliana'
-genome = 'Zmays_B73'
-genome = 'Osativa'
-diro = glue("{dirp}/{genome}/05_excel")
+genome = 'at'
+genome = 'zm'
+genome = 'os'
 
 t_cfg = read_projects(genome)
 t_cfg %>% count(libtype,source)
@@ -15,7 +14,7 @@ yid = 'mo20b'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
 #
-fo = glue("{diro}/tmp.tsv")
+fo = glue("{dird}/tmp.tsv")
 write_tsv(ti, fo)
 
 #{{{ SRA - work on single one

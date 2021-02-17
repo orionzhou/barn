@@ -3,6 +3,7 @@ load_all('~/git/rmaize')
 require(rentrez)
 require(xml2)
 dirp = '~/projects/barn'
+dird = glue("{dirp}/data")
 #t_cfg = read_gspread_master()
 #f_cfg = '~/projects/master.xlsx'
 #t_cfg = read_xlsx(f_cfg, sheet='barn', col_names=T) %>%

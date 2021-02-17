@@ -1,17 +1,12 @@
 # Project directories
 cache
-data2
 pseudo
 logs
-raw_seqs
 
 # data folder
 data/*
-!data/05.local.xlsx
-!data/06_local_list/
-!data/08_sra_list_raw/
-!data/09_sra_list/
-!data/15_read_list/
+!data/00_templates/
+!data/05_input/
 
 # app temp files
 .snakemake/*

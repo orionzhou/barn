@@ -8,6 +8,10 @@ data/*
 !data/00_templates/
 !data/05_input/
 
+nf/*
+!nf/*/nextflow.config
+!nf/*/input*
+
 # app temp files
 .snakemake/*
 *.snakemake

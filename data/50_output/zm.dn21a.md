@@ -2,7 +2,7 @@ A632 variants were called using the [nf-core/sarek pipeline](https://github.com/
 
 - [Pipeline report](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/Reports/MultiQC/multiqc_report.html)
 - [Raw VCF](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/VariantCalling/A632/HaplotypeCaller/HaplotypeCaller_A632.vcf.gz) (including 12,389,787 SNPs + 1,429,519 InDels) and [index](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/VariantCalling/A632/HaplotypeCaller/HaplotypeCaller_A632.vcf.gz.tbi)
-- [Filtered (high quality) VCF](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/A632.hq.vcf.gz) (5,587,291 SNPs + 864,901 InDels), [index](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/A632.hq.vcf.gz.tbi) and [stats](https://s3.msi.umn.edu/zhoup-nfo/zm.dn21a/A632.hq.stats)
+- [Filtered (high quality) VCF](https://s3.msi.umn.edu/zhoup-share/zm.dn21a/A632.hq.vcf.gz) (5,587,291 SNPs + 864,901 InDels), [index](https://s3.msi.umn.edu/zhoup-share/zm.dn21a/A632.hq.vcf.gz.tbi) and [stats](https://s3.msi.umn.edu/zhoup-share/zm.dn21a/A632.hq.stats)
 
 
 

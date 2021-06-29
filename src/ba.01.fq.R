@@ -1,16 +1,12 @@
 source("functions.R")
 
-genome = 'at'
-genome = 'zm'
-genome = 'os'
-
 t_cfg = read_projects(genome)
 t_cfg %>% count(libtype,source)
 t_cfg %>% print(n=50)
 rcfg = t_cfg %>% filter(source=='sra')
 lcfg = t_cfg %>% filter(source=='local')
 
-yid = 'mo20b'
+yid = 'zm.rn20a'
 acc = rcfg %>% filter(yid == !!yid) %>% pull(accession)
 ti = get_sra_meta(acc, yid)
 #
